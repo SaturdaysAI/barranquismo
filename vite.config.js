@@ -4,7 +4,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 // Export the Vite configuration tailored for GitHub Pages deployment and PWA support.
 export default defineConfig({
-  base: '/canyoning-webapp/',
+  base: '/barranquismo/',
   plugins: [
     react(),
     VitePWA({
