@@ -1,0 +1,38 @@
+[
+  {
+    "id": "formigal",
+    "name": "Barranco de Formigal",
+    "difficulty": "V3.A2.II",
+    "summary": "Descenso corto y técnico con rápeles seguidos y pozas brillantes.",
+    "description": "Itinerario alpino en Pirineo con entrada rápida y retorno señalizado. Ideal para finales de primavera con caudal medio.",
+    "gear": ["Neoprene 5/4 mm", "2 dynamic ropes 40 m", "Two quicklinks", "Dry bag"],
+    "wikiloc": {
+      "approach": "https://www.wikiloc.com/canyoning-trails/formigal-approach-123456",
+      "return": "https://www.wikiloc.com/canyoning-trails/formigal-return-654321"
+    }
+  },
+  {
+    "id": "gloces",
+    "name": "Gloces Inferior",
+    "difficulty": "V4.A3.III",
+    "summary": "Cañón encajado con rápeles volados y pasillos estrechos.",
+    "description": "Cañón clásico del Sobrarbe con secciones pulidas y luz filtrada. Precisa evitar crecidas y comprobar escapes.",
+    "gear": ["Neoprene 5/4 mm", "Static rope 2x45 m", "Ascenders", "Emergency blanket"],
+    "wikiloc": {
+      "approach": "https://www.wikiloc.com/canyoning-trails/gloces-approach-7891011",
+      "return": "https://www.wikiloc.com/canyoning-trails/gloces-return-1101987"
+    }
+  },
+  {
+    "id": "sierra-guara",
+    "name": "Peonera Superior",
+    "difficulty": "V3.A3.IV",
+    "summary": "Jornada acuática con sifones y nado prolongado, logística exigente.",
+    "description": "Clásico de Sierra de Guara que combina rápeles, saltos y largos tramos a nado. Ideal en verano con control de caudal.",
+    "gear": ["Two 30 m ropes", "Floating rope bag", "Wetsuit 5/4 mm", "Full dry bag"],
+    "wikiloc": {
+      "approach": "https://www.wikiloc.com/canyoning-trails/peonera-approach-334455",
+      "return": "https://www.wikiloc.com/canyoning-trails/peonera-return-554433"
+    }
+  }
+]
