@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import { Routes, Route, NavLink, Link } from 'react-router-dom';
 import Home from './pages/Home.jsx';
 import BarrancoDetail from './pages/BarrancoDetail.jsx';
@@ -6,10 +6,12 @@ import Checklist from './pages/Checklist.jsx';
 import Cursos from './pages/Cursos.jsx';
 import Concentraciones from './pages/Concentraciones.jsx';
 import Blog from './pages/Blog.jsx';
+import useLocalStorage from './hooks/useLocalStorage.js';
 
 // Application shell with simple navigation bar and routed pages.
 function App() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [globalSearch, setGlobalSearch] = useLocalStorage('canyon-search', '');
 
   const closeMenu = () => {
     setIsMenuOpen(false);
@@ -19,11 +21,23 @@ function App() {
     setIsMenuOpen((open) => !open);
   };
 
+  useEffect(() => {
+    const syncFromEvent = (event) => {
+      if (typeof event.detail === 'string') {
+        setGlobalSearch(event.detail);
+      }
+    };
+    window.addEventListener('canyon-search-update', syncFromEvent);
+    return () => {
+      window.removeEventListener('canyon-search-update', syncFromEvent);
+    };
+  }, [setGlobalSearch]);
+
   return (
     <div className="app-shell">
       <header className="app-header">
         <Link to="/" className="brand" onClick={closeMenu}>
-          Canyoning Guide
+          Barranquismo
         </Link>
         <button type="button" className="menu-toggle" onClick={toggleMenu} aria-expanded={isMenuOpen}>
           <span className="sr-only">Abrir menú</span>
@@ -69,6 +83,31 @@ function App() {
           </NavLink>
         </nav>
       </header>
+      <section className="hero">
+        <div className="hero-content">
+          <h1 className="hero-title">Explora barrancos, forma tu equipo y planifica el descenso</h1>
+          <p className="hero-subtitle">
+            Recursos para barranquistas: reseñas actualizadas, cursos, concentraciones y material necesario.
+          </p>
+        </div>
+        <div className="hero-search">
+          <label htmlFor="global-search" className="sr-only">
+            Buscar barrancos o contenidos
+          </label>
+          <input
+            id="global-search"
+            type="search"
+            value={globalSearch}
+            onChange={(event) => {
+              const value = event.target.value;
+              setGlobalSearch(value);
+              window.dispatchEvent(new CustomEvent('canyon-search-update', { detail: value }));
+            }}
+            placeholder="Busca barrancos, cursos o artículos..."
+            className="hero-input"
+          />
+        </div>
+      </section>
       <main className="app-content">
         <Routes>
           <Route path="/" element={<Home />} />

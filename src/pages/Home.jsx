@@ -1,4 +1,4 @@
-import { useMemo } from 'react';
+import { useMemo, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import useLocalStorage from '../hooks/useLocalStorage.js';
 import canyons from '../data/canyons.seed.json';
@@ -8,6 +8,18 @@ function Home() {
   const [searchTerm, setSearchTerm] = useLocalStorage('canyon-search', '');
   const [favoriteIds] = useLocalStorage('favorite-canyons', []);
   const [favoritesOnly, setFavoritesOnly] = useLocalStorage('show-only-favorites', false);
+
+  useEffect(() => {
+    const handleSync = (event) => {
+      if (typeof event.detail === 'string') {
+        setSearchTerm(event.detail);
+      }
+    };
+    window.addEventListener('canyon-search-update', handleSync);
+    return () => {
+      window.removeEventListener('canyon-search-update', handleSync);
+    };
+  }, [setSearchTerm]);
 
   const filteredCanyons = useMemo(() => {
     if (!searchTerm) {
@@ -43,7 +55,11 @@ function Home() {
           id="search"
           type="search"
           value={searchTerm}
-          onChange={(event) => setSearchTerm(event.target.value)}
+          onChange={(event) => {
+            const value = event.target.value;
+            setSearchTerm(value);
+            window.dispatchEvent(new CustomEvent('canyon-search-update', { detail: value }));
+          }}
           placeholder="Buscar por nombre o dificultad..."
           className="search-input"
         />
