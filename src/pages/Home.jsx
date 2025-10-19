@@ -1,7 +1,7 @@
 import { useMemo, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import useLocalStorage from '../hooks/useLocalStorage.js';
-import canyons from '../data/canyons.seed.json';
+import canyons from '../data/canyons.js';
 
 // Home lists the available canyons with quick access to detail pages.
 function Home() {
@@ -27,9 +27,11 @@ function Home() {
     }
     const normalizedTerm = searchTerm.toLowerCase();
     return canyons.filter((canyon) => {
+      const name = canyon.name ?? '';
+      const difficulty = canyon.difficulty ?? '';
       return (
-        canyon.name.toLowerCase().includes(normalizedTerm) ||
-        canyon.difficulty.toLowerCase().includes(normalizedTerm)
+        name.toLowerCase().includes(normalizedTerm) ||
+        difficulty.toLowerCase().includes(normalizedTerm)
       );
     });
   }, [searchTerm]);
@@ -81,28 +83,35 @@ function Home() {
               <div className="canyon-meta">
                 <h2 className="canyon-name">{canyon.name}</h2>
                 <span className="canyon-difficulty">Dificultad: {canyon.difficulty}</span>
-                <p className="canyon-summary">{canyon.summary}</p>
+                {canyon.location?.text && (
+                  <span className="canyon-location">{canyon.location.text}</span>
+                )}
+                {canyon.summary && <p className="canyon-summary">{canyon.summary}</p>}
               </div>
               <div className="canyon-actions">
                 <Link to={`/barranco/${canyon.id}`} className="canyon-link">
                   Ver ficha
                 </Link>
-                <a
-                  href={canyon.wikiloc.approach}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="canyon-link external"
-                >
-                  Aproximación
-                </a>
-                <a
-                  href={canyon.wikiloc.return}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="canyon-link external"
-                >
-                  Retorno
-                </a>
+                {canyon.wikiloc?.approach && (
+                  <a
+                    href={canyon.wikiloc.approach}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="canyon-link external"
+                  >
+                    Aproximación
+                  </a>
+                )}
+                {canyon.wikiloc?.return && (
+                  <a
+                    href={canyon.wikiloc.return}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="canyon-link external"
+                  >
+                    Retorno
+                  </a>
+                )}
               </div>
             </li>
           ))}

@@ -229,6 +229,12 @@ body {
   color: #0284c7;
 }
 
+.canyon-location {
+  display: block;
+  margin-top: 0.25rem;
+  color: #64748b;
+}
+
 .canyon-summary {
   margin: 0.5rem 0 0;
   color: #475569;
@@ -270,6 +276,11 @@ body {
 .favorite-button.is-active {
   background: #0284c7;
   color: #ffffff;
+}
+
+.detail-location {
+  margin: 0.75rem 0 0;
+  color: #475569;
 }
 
 .checklist-items {

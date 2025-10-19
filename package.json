@@ -6,12 +6,14 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "fetch:wikiloc": "node scripts/fetch-wikiloc-links.mjs"
   },
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-router-dom": "^6.26.1"
+    "react-router-dom": "^6.26.1",
+    "cheerio": "^1.0.0-rc.12"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",

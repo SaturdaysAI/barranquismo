@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
-import canyons from '../data/canyons.seed.json';
+import canyons from '../data/canyons.js';
 import useLocalStorage from '../hooks/useLocalStorage.js';
 import MapPreview from '../components/MapPreview.jsx';
 
@@ -46,8 +46,9 @@ function BarrancoDetail() {
             {isFavorite ? 'Quitar de favoritos' : 'Guardar en favoritos'}
           </button>
         </div>
+        {canyon.location?.text && <p className="detail-location">{canyon.location.text}</p>}
       </header>
-      <p className="detail-description">{canyon.description}</p>
+  {canyon.description && <p className="detail-description">{canyon.description}</p>}
 
       <section className="detail-section">
         <button type="button" className="section-toggle" onClick={() => setIsLinksOpen((open) => !open)}>
@@ -55,16 +56,27 @@ function BarrancoDetail() {
         </button>
         {isLinksOpen && (
           <ul className="section-list">
-            <li>
-              <a href={canyon.wikiloc.approach} target="_blank" rel="noopener noreferrer" className="canyon-link external">
-                Ruta de aproximación
-              </a>
-            </li>
-            <li>
-              <a href={canyon.wikiloc.return} target="_blank" rel="noopener noreferrer" className="canyon-link external">
-                Ruta de retorno
-              </a>
-            </li>
+            {canyon.wikiloc?.approach && (
+              <li>
+                <a href={canyon.wikiloc.approach} target="_blank" rel="noopener noreferrer" className="canyon-link external">
+                  Ruta de aproximación
+                </a>
+              </li>
+            )}
+            {canyon.wikiloc?.return && (
+              <li>
+                <a href={canyon.wikiloc.return} target="_blank" rel="noopener noreferrer" className="canyon-link external">
+                  Ruta de retorno
+                </a>
+              </li>
+            )}
+            {canyon.wikiloc_search_url && (
+              <li>
+                <a href={canyon.wikiloc_search_url} target="_blank" rel="noopener noreferrer" className="canyon-link external">
+                  Buscar rutas en Wikiloc
+                </a>
+              </li>
+            )}
           </ul>
         )}
       </section>
@@ -75,9 +87,13 @@ function BarrancoDetail() {
         </button>
         {isGearOpen && (
           <ul className="section-list">
-            {canyon.gear.map((item) => (
-              <li key={item}>{item}</li>
-            ))}
+            {canyon.gear.length > 0 ? (
+              canyon.gear.map((item) => (
+                <li key={item}>{item}</li>
+              ))
+            ) : (
+              <li>Datos de material pendientes de añadir.</li>
+            )}
           </ul>
         )}
       </section>
@@ -86,8 +102,20 @@ function BarrancoDetail() {
         <button type="button" className="section-toggle" onClick={() => setIsMapOpen((open) => !open)}>
           Mapa de referencia
         </button>
-        {isMapOpen && canyon.coordinates && (
-          <MapPreview lat={canyon.coordinates.lat} lng={canyon.coordinates.lng} zoom={canyon.coordinates.zoom} />
+        {isMapOpen && (
+          canyon.coordinates ? (
+            <MapPreview lat={canyon.coordinates.lat} lng={canyon.coordinates.lng} zoom={canyon.coordinates.zoom} />
+          ) : canyon.wikiloc_search_url ? (
+            <p className="detail-placeholder">
+              Aún no hay coordenadas registradas. Puedes consultar las rutas en{' '}
+              <a href={canyon.wikiloc_search_url} target="_blank" rel="noopener noreferrer" className="canyon-link external">
+                Wikiloc
+              </a>
+              .
+            </p>
+          ) : (
+            <p className="detail-placeholder">Mapa pendiente de añadir.</p>
+          )
         )}
       </section>
 

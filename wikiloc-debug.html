@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="description" content="Find the best outdoor trails for mountain hiking treks, bike tour itineraries, MTB rides, and up to 80 activities. Discover the most beautiful places in the world, download GPS tracks and follow the top routes on a map. Record your own trail from the app, upload it and share it with the community.">
+    <title>Wikiloc | Trails of the World</title>
+    <link rel="canonical" href="https://www.wikiloc.com/wikiloc/map.do"/>
+
+    <meta name="apple-itunes-app" content="app-id=432102730"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link rel="dns-prefetch" href="https://sc.wklcdn.com"/>
+    <link rel="dns-prefetch" href="https://s0.wklcdn.com"/>
+    <link rel="dns-prefetch" href="https://s1.wklcdn.com"/>
+    <link rel="dns-prefetch" href="https://s2.wklcdn.com"/>
+    <link rel="dns-prefetch" href="https://s3.wklcdn.com"/>
+    <link rel="dns-prefetch" href="//mts0.googleapis.com">
+    <link rel="dns-prefetch" href="//mts1.googleapis.com">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="@wikiloc"/>
+    <meta name="twitter:title" content="Wikiloc | Trails of the World"/>
+    <meta name="twitter:description" content="Find the best outdoor trails for mountain hiking treks, bike tour itineraries, MTB rides, and up to 80 activities. Discover the most beautiful places in the world, download GPS tracks and follow the top routes on a map. Record your own trail from the app, upload it and share it with the community."/>
+
+    <meta name="title" content="Wikiloc | Trails of the World"/>
+    <meta name="description" content="Find the best outdoor trails for mountain hiking treks, bike tour itineraries, MTB rides, and up to 80 activities. Discover the most beautiful places in the world, download GPS tracks and follow the top routes on a map. Record your own trail from the app, upload it and share it with the community."/>
+    <meta property="og:title" content="Wikiloc | Trails of the World"/>
+    <meta property="og:site_name" content="Wikiloc | Trails of the World"/>
+    <meta property="og:description" content="Find the best outdoor trails for mountain hiking treks, bike tour itineraries, MTB rides, and up to 80 activities. Discover the most beautiful places in the world, download GPS tracks and follow the top routes on a map. Record your own trail from the app, upload it and share it with the community."/>
+    <meta property="og:image"
+          content="https://sc.wklcdn.com/wikiloc/images/wikiloc-logo-facebook.png?v=3.0"/>
+    <meta property="og:url" content="https://www.wikiloc.com/wikiloc/map.do"/>
+    <meta name="_csrf" content=""/>
+    <meta name="_csrf_header" content=""/>
+
+    <link rel="image_src"
+          href="https://sc.wklcdn.com/wikiloc/images/wikiloc-logo-facebook.png?v=3.0"/>
+    <link rel="shortcut icon" type="image/ico" href="https://sc.wklcdn.com/favicon.ico?v=3.0"/>
+    <link rel="apple-touch-icon" href="https://sc.wklcdn.com/apple-touch-icon.png"/>
+    <link rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/css/bootstrap.min.css"/>
+    <link href="https://sc.wklcdn.com/wikiloc/assets/styles/fonts/font/wikiloc-font.woff2?35475463" rel="preload" as="font" type="font/woff2" crossorigin />
+<link href="https://fonts.gstatic.com" rel="preconnect" />
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/wikiloc.min.92bdad8c.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/wikiloc-v2.min.ac614ede.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/fonts/css/wikiloc-font.min.7a3ba9d0.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,500,700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800&display=swap" rel="stylesheet">
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/search-box.min.397f39ed.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/explore.min.5dc8e6d2.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/header-user.min.73311101.css" rel="stylesheet"/>
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/language-selector.min.e9f88337.css" rel="stylesheet" >
+<link href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/banner-cta.min.ef8a2809.css" rel="stylesheet" >
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.3.4/dist/leaflet.css"
+          type="text/css"/>
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/lib/leaflet.rrose.min.ce80128a.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/leaflet-wkl.min.c94e5a71.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/leaflet-switchmap.min.751c6a28.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/leaflet-searchthisarea.min.51fe2667.css"
+          type="text/css"/>
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/leaflet-loadingbar.min.7f2081e0.css"
+          type="text/css"/>
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/leaflet-zdp.min.a2c8efaa.css"
+          type="text/css"/>
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/MarkerCluster.min.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/Leaflet.Photo.min.183871db.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/nouislider.min.3821f711.css?v=14.0.3"
+          type="text/css"/>
+    <link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/pictograms.min.d167e6e4.css?v=1.1.16" type="text/css" />
+<link rel="search" type="application/opensearchdescription+xml" title="Wikiloc"
+          href="https://www.wikiloc.com/wikiloc/wikilocopensearch.xml"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, maximum-scale=1,user-scalable=0"/>
+
+    <link rel="stylesheet" href="https://sc.wklcdn.com/wikiloc/assets/styles/css/stars.min.76e88f7e.css"
+          type="text/css"/>
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/trail-card.min.740ecd12.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/pagination.min.77d76d81.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/login-modal.min.d548ffc4.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/premium-modal.min.d0a90b3a.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/slider.min.00204522.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/multiselect.min.44944ec4.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/crud-favlist.min.c834668b.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/add-to-fav.min.ea59b1e4.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/follow-modal.min.b33e2122.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/selector-icon.min.aeff316c.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/map-leaflet.min.b479678a.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/image-masonry.min.232ac691.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/filters/filter-distance.min.85429907.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/filters/filter-elevation.min.91c1914b.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/filters/filter-difficulty.min.59eea740.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/filters/filter-favoritelists.min.54b72a71.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/filters/filter-since.min.c83239ee.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/filters/filter-months.min.7b75b2bd.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/filters/filter-yourtrails.min.77c22d54.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/filters/shortcut-filter.min.345b30fe.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/filters.min.f64b8172.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/promoted-trails.min.5e87fa92.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/featured-authors.min.b2a744e6.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/org-header.min.a222a2b5.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/pages/search/main.min.b5b82ff9.css">
+    <link rel="stylesheet"
+          href="https://cdn.jsdelivr.net/npm/tippy.js@3.4.1/dist/themes/light-border.css">
+    <link rel="stylesheet"
+          href="https://sc.wklcdn.com/wikiloc/assets/styles/css/socialLogin.min.f312602a.css">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-3L0VBYJNY2"></script>
+<script>
+    function getCookie(name) {
+        const cookieValue = document.cookie
+            .split('; ')
+            .find((cookie) => cookie.startsWith(name + '='));
+
+        if (cookieValue) {
+            return cookieValue.split('=')[1];
+        }
+    }
+
+    const wikilocConsentCookie = getCookie('wikiloc_cookie_consent');
+
+    let wikilocConsent;
+    if (wikilocConsentCookie) {
+        wikilocConsent = JSON.parse(atob(wikilocConsentCookie));
+    } else {
+        wikilocConsent = {
+            tecnic: true,
+            analisis: true,
+            marketing: true
+        };
+    }
+
+    let gtagConsent = {
+        'ad_storage': wikilocConsent.marketing ? 'granted' : 'denied',
+        'analytics_storage': wikilocConsent.analisis ? 'granted' : 'denied',
+        'functionality_storage': 'granted',
+        'personalization_storage': 'granted',
+        'security_storage': 'granted'
+    }
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('consent', 'default', gtagConsent);
+    gtag('js', new Date());
+
+    gtag('set', 'user_id', null);
+    let userProperties = {
+        is_premium: '0',
+        wikiloc_user_id: null,
+        country_code: 'ES',
+        user_language: null,
+    };
+    gtag('set', 'user_properties', userProperties);
+
+    let gtagEvent = (eventName, eventParams) => {
+        gtag('event', eventName, {...eventParams, ...userProperties});
+    }
+
+    let gtagConfig = {};
+    
+    gtag('config', 'G-3L0VBYJNY2', gtagConfig);
+</script>
+
+<script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)}(window, document,'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    if (wikilocConsent.marketing) {
+        fbq('consent', 'grant');
+    } else {
+        fbq('consent', 'revoke');
+    }
+    fbq('init', '591280246289143', {
+        country: 'ES',
+    });
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=591280246289143&ev=PageView&noscript=1"
+/></noscript>
+</head>
+<body>
+<header>
+    <div id="vue-language-selector"></div>
+    <div id="vue-banner-cta"></div>
+    <nav class="header" role="navigation">
+        <div class="header__content">
+            <a class="header__brand "
+               href="https://www.wikiloc.com"
+               onclick="gtagEvent('goto_home_click', {ref: 'header'})"
+               
+            >
+                <img class="header__logo-big header__logo-big--christmas"
+                     src="https://sc.wklcdn.com/wikiloc/assets/styles/images/logo/wikiloc_logo.svg?v=3.0"
+                     alt="Wikiloc - Trails of the World">
+            </a>
+            <div class="header__search">
+                    <div class="component-search-box"></div>
+                </div>
+                <div class="header__explore header__explore--hide-on-small-devices">
+                    <div class="component-explore"></div>
+                </div>
+                <div class="header__planned-trails">
+                    <a href="https://www.wikiloc.com/wikiloc/routePlanner.do?ref=header">
+                        Plan your trail</a>
+                </div>
+
+
+                <div class="header__getpremium">
+                            <a class="header__getpremium-btn wlbutton wlbutton--sec-green"
+                               href="/premium?ref=header">Upgrade to Premium</a>
+                            <a class="header__getpremium-btn-sm wlbutton wlbutton--sec-green"
+                               href="/premium?ref=header_mobile">Premium</a>
+                            <a class="header__getpremium-btn-xs wlbutton wlbutton--sec-green"
+                               href="/premium?ref=header_mobile">Premium</a>
+                        </div>
+                    <div class="header__user">
+                    <div class="header__user-guest">
+                                <a href="https://www.wikiloc.com/wikiloc/start.do?NEXTHOP=aHR0cHM6Ly93d3cud2lraWxvYy5jb20vd2lraWxvYy9tYXAuZG8=&fromHeaderLogin=true"
+                                   class="header__login"
+                                   onclick="gtagEvent('goto_login_click', {ref: 'header'});fbq('trackCustom', 'goto_login_click', {ref: 'header'})"
+                                   
+                                >
+                                    Log in</a>
+                                <div class="header__signup">
+                                    <a href="https://www.wikiloc.com/wikiloc/signingup.do"
+                                       class="header__signup-btn wlbutton wlbutton--pri-green"
+                                       onclick="gtagEvent('goto_signup_click', {ref: 'header'});fbq('trackCustom', 'goto_signup_click', {ref: 'header'})"
+                                       
+                                    >
+                                        Sign up</a>
+                                    <a href="https://www.wikiloc.com/wikiloc/signingup.do"
+                                       class="header__signup-btn-small wlbutton wlbutton--pri-green"
+                                       onclick="gtagEvent('goto_signup_click', {ref: 'header_mobile'});fbq('trackCustom', 'goto_signup_click', {ref: 'header_mobile'})"
+                                       
+                                    >
+                                        Sign up</a>
+                                </div>
+                            </div> </div> </div>
+        </nav>
+    </header>
+
+<script>
+  var translations = {"txtExploreIreland":"Ireland","txtWorldmap":"World Map","txtTrails":"Your trails","txtSearchByText":"Trails with the text: '<span>{0}<\/span>'","txtTranslationsBannerSettingsText":"All set! You can change it anytime from Settings.","txtUrlExploreMoreCountries":"trails","txtExploreUnitedStates":"United States","txtExploreNepal":"Nepal","txtExplore":"Explore","txtExploreSpain":"Spain","txtClose":"Close","txtExploreNorway":"Norway","txtExploreMoreCountries":"More countries","txtTranslationsBannerText":"We have automatically translated the trails created by locals to {0}.","txtNearbyTrails":"Nearby trails","txtSearchPlaceholder":"Search for trails","txtExploreVietnam":"Vietnam","txtExplorePhilippines":"Philippines","txtExploreTrailsIn":"Trails in <span>{0}<\/span>","txtContinue":"Continue","txtExploreNewZealand":"New Zealand","bannerCta":"Vote","txtRecentSearches":"Recent searches","txtSearchExamples":"Try: Yosemite, Appalachian Trail","txtExploreGermany":"Germany","txtProfile":"Your profile","txtExploreMorocco":"Morocco","txtTranslationBannerKeepOriginal":"View in original language","txtTranslationsBannerOpenSettings":"Open Settings","txtExploreFrance":"France","txtExploreTitle":"A World to Explore","txtExploreAustralia":"Australia","txtExploreTurkey":"Turkey","txtNotificationConfirm":"Confirm","txtNotificationIgnore":"Ignore","txtSignOut":"Sign out","txtGetPremium":"Upgrade to Premium","txtExploreIceland":"Iceland","txtExploreJapan":"Japan","txtNotificationTitle":"Pending requests from your trail buddies","txtSettings":"Settings","txtExploreChile":"Chile","txtExplorePeru":"Peru","txtChangeLanguage":"Change language","txtProducts":"Your products","txtTranslationBannerKeepLanguage":"Keep in {0}","bannerCtaUrl":"\/wikiloc\/one-percent\/poll.do","txtExploreItaly":"Italy","txtSearchByUser":"Members with username: '<span>{0}<\/span>'","bannerText":"Take part in choosing Wikiloc's next 1% for the Planet contributions","txtWithText":"With the text '<strong>{0}<\/strong>'","txtOtherPlaces":"Others"};
+  // Used in common-v2 vueHeaderUser initialization
+  var INJECT_HEADER = {
+    userId: "",
+    username: "",
+    photo: "",
+    hasPremium: false,
+    hasProducts: false,
+    hasBigAvatar: false,	// only set true at home.jsp
+    notifications: {},
+    i18n: translations,
+    languages: [{"changeLanguage":"Canvia idioma","continue":"Continua","subdomain":"ca","text":"Català"}, {"changeLanguage":"Skift sprog","continue":"Fortsæt","subdomain":"da","text":"Dansk"}, {"changeLanguage":"Sprache ändern","continue":"Weiter","subdomain":"de","text":"Deutsch"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"en","text":"English"}, {"changeLanguage":"Cambia idioma","continue":"Continúa","subdomain":"es","text":"Español"}, {"changeLanguage":"Hizkuntza aldatu","continue":"Jarraitu","subdomain":"eu","text":"Euskara"}, {"changeLanguage":"Changer de langue","continue":"Continuer","subdomain":"fr","text":"Français"}, {"changeLanguage":"Cambiar idioma","continue":"Continuar","subdomain":"gl","text":"Galego"}, {"changeLanguage":"Skipta um tungumál","continue":"Halda áfram","subdomain":"is","text":"Íslenska"}, {"changeLanguage":"Cambia lingua","continue":"Continua","subdomain":"it","text":"Italiano"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"hu","text":"Magyar"}, {"changeLanguage":"Taal wijzigen","continue":"Doorgaan","subdomain":"nl","text":"Nederlands"}, {"changeLanguage":"Endre språk","continue":"Fortsett","subdomain":"nb","text":"Norsk"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"pl","text":"Polski"}, {"changeLanguage":"Mudar idioma","continue":"Continuar","subdomain":"pt","text":"Português"}, {"changeLanguage":"Vaihda kieltä","continue":"Jatka","subdomain":"fi","text":"Suomi"}, {"changeLanguage":"Ändra språk","continue":"Fortsätt","subdomain":"sv","text":"Svenska"}, {"changeLanguage":"Dili değiştir","continue":"Devam","subdomain":"tr","text":"Türkçe"}, {"changeLanguage":"Αλλαγή γλώσσας","continue":"Συνέχεια","subdomain":"el","text":"Ελληνικά"}, {"changeLanguage":"Смена языка","continue":"Продолжить","subdomain":"ru","text":"Русский"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"sr","text":"Српски"}, {"changeLanguage":"Change language","continue":"Continue","subdomain":"uk","text":"Українська"}, {"changeLanguage":"改变语言","continue":"继续","subdomain":"zh","text":"中文"}, {"changeLanguage":"언어 변경","continue":"계속하기","subdomain":"ko","text":"한국어"}],
+    canSeeTheBanner: false,
+    aiTranslationsEnabled: false
+  };
+</script>
+
+<!--[if lt IE 10]>
+<p class="browsehappy alert alert-warning text-center">Your browser version is <strong>outdated</strong>. Update your browser to view this website correctly. <a href="http://browsehappy.com/?locale=en" class="alert-link">Update my browser now</a>.</p>
+<![endif]-->
+<div id="main-inject"></div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.0/jquery.cookie.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11/dist/vue.min.js"></script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/header-user.min.40e5a197.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/language-selector.min.15770884.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/banner-cta.min.432564e7.js"></script>
+<script>
+    Vue.prototype.$eventBus = new Vue();
+</script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/common.min.2a907c33.js?v=1.3.3"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/searchCommon.min.3265bc5a.js"></script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/search-box.min.0163c829.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/explore.min.2498017e.js"></script>
+
+<script>var isoLang = 'en';</script>
+<script>
+  var countryCode = "ES";
+  var cookieWikilocConsent = "wikiloc_cookie_consent";
+  var translationsCookiesJs = {"txtCookieMonsterAcceptCookies":"Accept Cookies","txtCookieMonsterAcceptAllCookies":"Accept all cookies","txtCookieMonsterBannerTitle":"Select your cookie preferences","txtCookieMonsterRejectCookies":"Reject Cookies","txtCookieMonsterAcceptSelectedCookies":"Accept only selected","txtCookieMonsterPopupCookie3Text":"These are the types of cookies that make the management of the advertising spaces on our website possible. These cookies store information about user behavior. Although it sounds like control, it is done precisely to prevent spam from reaching you and to show you the content that we know is of greater interest for you.","txtCookieMonsterBannerText":"At Wikiloc, we use our own cookies as well as third-party cookies, just like on most websites. In our case, we use them for technical, analytical and advertising purposes only. You can choose your preferences in \"Manage Cookies\". For more information, you can visit the Cookies section of our <a href=\"\/wikiloc\/privacy.html?v=4.3#cookies\" class=\"wikiloc-link\">Privacy Policy<\/a>.","txtCookieMonsterPopupCookie2Title":"Those of measurement and analysis, to be more professional","txtCookieMonsterConfiguration":"Manage Cookies","txtCookieMonsterPopupCookie1Text":"These cookies allow for the proper functioning of our website, such as browsing through the website, accessing your personal account or the use of security elements while browsing. They are necessary as they allow for communication between your device and the network, or because they provide a service specifically requested by you.","txtCookieMonsterPopupTitle":"Cookie Settings","txtCookieMonsterPopupCookie1Title":"The technical and necessary ones. The ones you can't do without.","txtCookieMonsterPopupCookie2Text":"These are those cookies that allow us to quantify the number of users that enter our page and analyze the use that is made of it. The aim is precisely to constantly improve and to enhance your experience.","txtCookieMonsterPopupCookie3Title":"Those of marketing and segmented advertising"};
+</script>
+<div id="vue-cookie-monster"></div>
+<link rel="stylesheet"
+      href="https://sc.wklcdn.com/wikiloc/assets/styles/css/vue/components/sid-monster.min.67c68011.css">
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/sid-monster.min.e7027634.js"></script>
+<script>
+  function initCookieMonster() {
+    var elementId = "vue-cookie-monster";
+    if(!document.getElementById(elementId)) {
+      return;
+    }
+
+    new Vue({
+      el: '#'+elementId,
+      data: {
+        countryCode: countryCode,
+        cookieWikilocConsent: cookieWikilocConsent,
+        i18n: translationsCookiesJs
+      },
+      template: `
+			 <cookie-monster
+			  :countryCode="countryCode"
+			  :cookieName="cookieWikilocConsent"
+			  :i18n="i18n">
+
+			</cookie-monster>
+			`
+    });
+  }
+  setTimeout(initCookieMonster, 200);
+</script><script>
+  var translations = {"txtDiscoverAllPromotedTrails":"Discover all the official trails","txtSearchThisAreaButton":"Repeat search here","txtUoms_m":"m","txtViewMore":"View all","txtSkills1":"Easy","txtUoms_f":"ft","txtFilterSince":"Recorded","txtCoordinates":"Photo with coordinates. Accurate location.","txtFeaturedAuthorsAction":"View Author","txtFeatureDescriptionZdp":"<p>Find trails starting or passing through your selected areas.<\/p><p>Perfect for planning your next trail with those essential must-sees.<\/p>","txtMap":"Map","txtTrails":"{0} trails","txtFollowing":"Following","txtExitFullScreen":"Exit full-screen mode","txtEnterFullScreen":"Full screen","txtModalPremiumLogin":"Already a member? Log in","txtFollowModalPhotoOf":"Photo of","txtScopeBest":"Popular","txtNear":"near","txtMultipleGeocodedCandidatesMsg":"Multiple places found. Choose one","txtTrailsLabel":"trails","txtEyeHide":"Hide","txtFollowModalTitle":"Trail added to your favorites","txtFilterSinceLastYear":"Last 12 months","txtRemaining":"remaining","txtFilterDistance":"Distance","txtPrivacy":"Privacy","txtFiltersTitle":"Filters","txtYourTrailsPrivacyPrivate":"Private","txtNReviews":"{0} Reviews","txtPremiumFeature":"PREMIUM FEATURE","txtPrivate":"Private","txtFeatureNameAdvFilters":"Advanced Filters","txtPrivacyHelp":"Private lists are visible to you alone and cannot be shared","txtFilterSinceLastQuarter":"Last 3 months","txtFilterSkill":"Technical difficulty","txtTrailMapOf":"Trail map of","txtLoginModalLoginEmailUsername":"Email or username","txtFavoriteList":"Lists","txtSnackbarResultSingle":"1 trail","txtSkills3":"Difficult","txtSkills2":"Moderate","txtZonadepasAddMiddle":"Search for trails passing here","txtSkills5":"Experts only","txtSkills4":"Very difficult","txtApplyFilter":"Apply filter","txtTrial":"Get a FREE 14-day trial","txtOrgHeaderOwnTrails":"Trails","txtSnackbarResultsNotFound":"No trails found","txtViewLess":"View less","txtUserActionEdit":"Edit","txtViewPhotos":"View photos","txtFeatureNameFavourite":"Trail Lists","txtSelectorIconTitle":"Activities","txtClearFilters":"Clear filters","txtFilterLoop":"Loop trails","txtFilterSinceAnytime":"Any time","txtActivities":"Activities","txtRequired":"Required","txtNewList":"Create new list","txtShowMap":"Show map","txtLoginModalSignupTitle":"Sign up","txtViewList":"View all","txtRemainingList":"???en.view-action.favorite-list.remaining-list???","txtPremiumFiltersTitle":"Premium filters","txtLoginModalLoginOr":"Or","txtResultsNone":"No results found","txtSearchAsIMoveButton":"Search as map moves","txtViewTrails":"View trails","txtAlertMaxZDP":"You have reached the maximum number of passing areas on the map.","txtFeatureDescriptionAdvFilters":"<p>Find trails only from people you are following.<\/p><p>Filter by recording date (last month, quarter, year).<\/p><p>Filter by time of year: mark one month or more to find trails recorded in a specific season.<\/p>","txtZdpSearchByPassingArea":"Search by passing area","txtFollowModalDiscover":"Follow {0} and discover new trails!","txtSearch":"Search for a place or text","txtUoms_nm":"nm","txtLoginModalLoginTitle":"Log into Wikiloc","txtViewProfile":"View profile","txtScopeTrailrank":"TrailRank","txtBy":"by","txtFeatureNameZdp":"Search by Passing Area","txtViewAll":"View all","txtSnackbarResults":"{0} trails","txtZdpTutorialIntro":"Define an area to find trails that start or pass through that place.","txtLoginModalLoginForgotPwd":"Forgot your password?","txtNoCoordinates":"Photo without coordinates. Default location at trail start.","txtSelectorIconSelect":"Apply filter","txtOrgHeaderSelectedTrails":"Favorites","txtPhotoModeBubble":"<b>Explore by photos<\/b><br> New! Browse through the photos to discover trails.","txtZdpAddPassingArea":"Add passing area","txtLoginModalLoginButton":"Sign In","txtView":"View","txtFilterElevation":"Elevation +","txtLoginModalTerms":"By continuing, you agree to Wikiloc's <a href=\"https:\/\/www.wikiloc.com\/wikiloc\/terms_en.html?v=6.1\">Terms of Service<\/a> and <a href=\"https:\/\/www.wikiloc.com\/wikiloc\/privacy.html?v=4.3\">Privacy Policy<\/a>, including <a href=\"https:\/\/www.wikiloc.com\/wikiloc\/privacy.html?v=4.3#cookies\">Cookies Use<\/a>.","txtEmptyAddressMsg":"Please specify a place (example: \"Moab\" or \"Little Yellowstone\")","txtReachedLimit":"You have reached the maximum number of lists","txtPrevPageMsg":"&larr;&nbsp;Previous","txtPlaceholderList":"Enter List name","txtEmailEmpty":"???en.errors.userForm.email.malformed???","txtApplyFilters":"Apply filters","txtUoms_mi":"mi","txtFavoriteListLabel":"Your lists","txtFilterSinceLastMonth":"Last 30 days","txtTrailsOrg":"{0} of {1} trails","txtFilterPassingArea":"Passing area","txtFavoriteMap":"Trail map of","txtZonadepasAddStart":"Search for trails starting here","txtFilterZdpTitle":"Passing area","txtFavoriteListEmpty":"none","txtActivitiesAll":"Show all","txtLoginModalSignupButton":"Create your account","txtTrailsWithoutPhotos":"These trails have no photos","txtZonadepasWarningZoomout":"Zoom in to select an area","txtPhotoMode":"Photos","txtFilterOwn":"Your trails","txtLoginModalLoginPwd":"Password","txtPromotedTrails":"Promoted trails","txtNameList":"Name","txtUoms_km":"km","txtMoreMaps":"Maps","txtZdpTutorialMiddle":"<b>Move the map<\/b> and center the circle in the passing area.","txtCancel":"Cancel","txtLoginModalLoginSubtitle":"Not a member yet?","txtFilterRecordingMonth":"Time of year","txtLoginModalSignupWhyA":"Store and manage all your GPS tracks","txtDeleteTrail":"Are you sure you want to delete this location? (there is no undo)","txtLoginModalSignupWhyB":"Add photos and videos to your trails","txtfreeOptionExplorePhoto":"Not a Premium member yet? Now enjoy this feature from any ORG account <a href=\"\/wikiloc\/orgs.do\">Trail Map<\/a>","txtLoginModalSignupWhyC":"Create your own map of trails","txtYourTrailsPrivacyPublic":"Public","txtUserActionDelete":"Delete","txtLoginModalSignupWhyD":"Share your favorite trails with your friends","txtViewAs":"View as","txtNotNow":"NOT NOW","txtSelectorIconShowAll":"Show all","txtWikilocPremium":"Upgrade to Premium","txtMyTrails":"Your trails","txtMoreLayers":"Maps","txtTrailsPluralSingle":"trails","txtYourTrailsPrivacyAll":"All","txtFeaturedAuthorsTitle":"Featured Authors","txtFollow":"Follow","txtTrailrank":"TrailRank","txtFilterFollow":"Only trails by Wikiloc members you follow","txtZoomOut":"Zoom out","txtSatellite":"Satellite","txtFeatureDescriptionFavourite":"<p>Organize the trails you like in lists and share them with your friends.<\/p><p>Create your own lists to save your favorite trails, set goals or even plan future trips!<\/p>","txtNoTrailsInThisArea":"No routes in this area that meet these filters","txtListMode":"List","txtNextPageMsg":"Next&nbsp;&rarr;","txtFollowModalFollowButton":"Follow","txtWith":"with","txtMoreFilters":"More filters","txtScopeAnyone":"Latest","txtNomatchGeocodeMsg":"Sorry, we were unable to find that place<br\/>(examples: \"Moab\" or \"Little Yellowstone\")","txtLoginModalLoginCreateAccount":"<a href=\"\/wikiloc\/signingup.do\">Create an account<\/a>","txtCreateList":"Create","txtEyeDisplay":"Show on map","txtAddToList":"Save to a List","txtOf":"of&nbsp;","txtPublic":"Public"};
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/history.js/1.8/native.history.min.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/lib/nouislider.min.768035a0.js?v=14.0.3"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/lib/fp.min.3f7d74a2.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/twkb@0.2.0/dist/twkb.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/lethargy@1.0.4/lethargy.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/6.5.0/turf.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/leaflet@1.3.4/dist/leaflet.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/leaflet-wkl.min.cacebd95.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/leaflet-switchmap.min.5bc525cc.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/leaflet.markercluster@1.4.1/dist/leaflet.markercluster.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/Leaflet.Photo.min.665af1d8.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/lib/leaflet.rrose-src.min.12906879.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/lib/leaflet.geometryutil.min.82852059.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/tippy.js@3.4.1/dist/tippy.all.min.js"></script>
+
+<script>
+  //Leaflet singleton
+  L.mapkitToken = "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkM0VlRBOTdKVEwifQ.eyJpYXQiOjE3NjA2OTMyNDcsImV4cCI6MTc5MjIyOTI0NywiaXNzIjoiVU1MS1lTREQ0MyIsIm9yaWdpbiI6Imh0dHBzOi8vd3d3Lndpa2lsb2MuY29tIn0.lKK3MBhMWCpASS_WsZN0kV-oHP7ke29CDO4ei71AhYxfxCMwZoEI8mnG5zmF5-UdFd59dW9UgJJtt4zbz36ULg";
+  L.language = "en";
+  L.i18n = {
+    switchmap: {
+      satellite: translate('txtSatellite'),
+      map: translate('txtMap'),
+      moreMaps: translate('txtMoreMaps')
+    },
+    searchthisarea: {
+      buttonText: translate('txtSearchThisAreaButton'),
+      buttonTextWaiting: translate('txtSearchAsIMoveButton'),
+      snackbar: {
+        noResults: translate("txtSnackbarResultsNotFound"),
+        oneResult: translate("txtSnackbarResultSingle"),
+        results: translate("txtSnackbarResults", {"0": "token"})
+      }
+    },
+    zdp: {
+      addPassingArea: translate('txtZdpAddPassingArea'),
+      searchByPassingArea: translate('txtZdpSearchByPassingArea'),
+      trailsStartButtonText: translate('txtZonadepasAddStart'),
+      trailsPassButtonText: translate('txtZonadepasAddMiddle'),
+      cancelButtonText: translate('txtCancel'),
+      zoomOutHelpText: translate('txtZonadepasWarningZoomout'),
+      helpPopupIntro: translate('txtZdpTutorialIntro'),
+      helpPopupMiddle: translate('txtZdpTutorialMiddle'),
+      alertMaxZdp: translate('txtAlertMaxZDP')
+    }
+  }
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/intersection-observer@0.5.1/intersection-observer.min.js"></script>
+<script src="https://cdn.apple-mapkit.com/mk/5.45.0/mapkit.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/Leaflet.MapkitMutant.min.9907debe.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/leaflet-layers-mapkit.min.d8db32b6.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/leaflet-loadingbar.min.7cfab368.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/leaflet-searchthisarea.min.2be7d0df.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/leaflet-zdp.min.cae4b428.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/macy@2.5.0/dist/macy.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dayjs@1.8.14/dayjs.min.js"></script>
+<script>
+  var langDayJs = "en";
+  if (langDayJs === 'pt') {
+    langDayJs = 'pt-br';
+  } else if (langDayJs === 'zh') {
+    langDayJs = 'zh-cn';
+  }
+</script>
+<script src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/socialLogin.min.6ad26271.js"></script>
+<script>
+  var INJECT = {
+    defMapType: "hybrid",
+    
+    bboxCountry: {
+      n: 43.75,
+      s: 35.95,
+      e: 3.04,
+      w: -9.39
+    },
+    
+    isWorldMap: true,
+    defAct: "",
+    inFeet: true,
+    noUiSliderModule: noUiSlider,
+    activities: [{"id":2,"text":"Mountain Bike"},{"id":63,"text":"Multisport"},{"id":117,"text":"Downhill MTB"},{"id":65,"text":"Barefoot"},{"id":55,"text":"Inline Skate"},{"id":70,"text":"Golf"},{"id":140,"text":"Plogging"},{"id":57,"text":"Nordic Walking"},{"id":68,"text":"Longboard\/ Skateboard"},{"id":136,"text":"Scooter"},{"id":46,"text":"Canyoneering"},{"id":106,"text":"Airboat"},{"id":120,"text":"BASE Jumping"},{"id":49,"text":"Rowing"},{"id":107,"text":"Segway"},{"id":37,"text":"Skating"},{"id":54,"text":"Kickbike"},{"id":44,"text":"Reduced Mobility"},{"id":134,"text":"Splitboard"},{"id":24,"text":"Rock Climbing"},{"id":118,"text":"eBike"},{"id":137,"text":"Wildlife Watching"},{"id":9,"text":"Sail Boat"},{"id":14,"text":"Alpine Climbing"},{"id":69,"text":"Mountain Unicycle"},{"id":28,"text":"Ice Climbing"},{"id":48,"text":"Trail Running"},{"id":135,"text":"Gravel Bike"},{"id":8,"text":"Road Motorbike"},{"id":64,"text":"Stand up Paddle"},{"id":121,"text":"Joëlette"},{"id":61,"text":"Swimming"},{"id":1,"text":"Hiking"},{"id":3,"text":"Off Road"},{"id":115,"text":"Handbike"},{"id":59,"text":"Enduro Motorcycle"},{"id":110,"text":"Drone"},{"id":27,"text":"Horseback Riding"},{"id":50,"text":"Car"},{"id":29,"text":"Road Bike"},{"id":41,"text":"Spelunking"},{"id":58,"text":"Motorcycle Trials"},{"id":51,"text":"Kitesurfing"},{"id":53,"text":"Sledding"},{"id":4,"text":"Alpine Ski"},{"id":43,"text":"Walking"},{"id":105,"text":"Motorhome"},{"id":111,"text":"Motorboat"},{"id":113,"text":"Trailer Bike"},{"id":12,"text":"Snowmobile"},{"id":21,"text":"Running"},{"id":144,"text":"Bikepacking"},{"id":26,"text":"Plane"},{"id":17,"text":"Snowshoe"},{"id":13,"text":"Cross Country Ski"},{"id":52,"text":"Kite Ski"},{"id":11,"text":"Kayak\/Canoe"},{"id":60,"text":"Via Ferrata"},{"id":112,"text":"Birdwatching"},{"id":15,"text":"Hang Gliding"},{"id":47,"text":"Bicycle Touring"},{"id":19,"text":"Diving"},{"id":45,"text":"Train"},{"id":39,"text":"Dog Sledding"},{"id":20,"text":"Paragliding"},{"id":18,"text":"Snowboarding"},{"id":116,"text":"Rafting"},{"id":40,"text":"Backcountry Ski"},{"id":108,"text":"Camel"},{"id":38,"text":"Dual-sport Motorcycle"},{"id":62,"text":"Orienteering"},{"id":66,"text":"Canicross"},{"id":6,"text":"Quad"},{"id":67,"text":"Roller Ski"},{"id":56,"text":"Blind People"},{"id":133,"text":"Baby Stroller"},{"id":114,"text":"Jet Ski"},{"id":138,"text":"Flora Observation"},{"id":16,"text":"Hot Air Balloon"},{"id":109,"text":"Freeride Ski"}],
+    activitiesByCategory: [{"name":"On Foot","pictograms":[{"pictogramId":1,"name":"Hiking"},{"pictogramId":21,"name":"Running"},{"pictogramId":43,"name":"Walking"},{"pictogramId":48,"name":"Trail Running"},{"pictogramId":14,"name":"Alpine Climbing"},{"pictogramId":57,"name":"Nordic Walking"},{"pictogramId":62,"name":"Orienteering"},{"pictogramId":140,"name":"Plogging"},{"pictogramId":65,"name":"Barefoot"}]},{"name":"Bicycle","pictograms":[{"pictogramId":2,"name":"Mountain Bike"},{"pictogramId":29,"name":"Road Bike"},{"pictogramId":47,"name":"Bicycle Touring"},{"pictogramId":144,"name":"Bikepacking"},{"pictogramId":118,"name":"eBike"},{"pictogramId":135,"name":"Gravel Bike"},{"pictogramId":117,"name":"Downhill MTB"},{"pictogramId":69,"name":"Mountain Unicycle"},{"pictogramId":113,"name":"Trailer Bike"},{"pictogramId":115,"name":"Handbike"},{"pictogramId":54,"name":"Kickbike"}]},{"name":"Climb","pictograms":[{"pictogramId":14,"name":"Alpine Climbing"},{"pictogramId":60,"name":"Via Ferrata"},{"pictogramId":46,"name":"Canyoneering"},{"pictogramId":24,"name":"Rock Climbing"},{"pictogramId":41,"name":"Spelunking"},{"pictogramId":28,"name":"Ice Climbing"}]},{"name":"Snow","pictograms":[{"pictogramId":40,"name":"Backcountry Ski"},{"pictogramId":17,"name":"Snowshoe"},{"pictogramId":4,"name":"Alpine Ski"},{"pictogramId":13,"name":"Cross Country Ski"},{"pictogramId":18,"name":"Snowboarding"},{"pictogramId":12,"name":"Snowmobile"},{"pictogramId":134,"name":"Splitboard"},{"pictogramId":109,"name":"Freeride Ski"},{"pictogramId":52,"name":"Kite Ski"},{"pictogramId":53,"name":"Sledding"}]},{"name":"Water","pictograms":[{"pictogramId":11,"name":"Kayak/Canoe"},{"pictogramId":111,"name":"Motorboat"},{"pictogramId":61,"name":"Swimming"},{"pictogramId":9,"name":"Sail Boat"},{"pictogramId":64,"name":"Stand up Paddle"},{"pictogramId":49,"name":"Rowing"},{"pictogramId":114,"name":"Jet Ski"},{"pictogramId":51,"name":"Kitesurfing"},{"pictogramId":19,"name":"Diving"},{"pictogramId":106,"name":"Airboat"},{"pictogramId":116,"name":"Rafting"}]},{"name":"With Animals","pictograms":[{"pictogramId":27,"name":"Horseback Riding"},{"pictogramId":66,"name":"Canicross"},{"pictogramId":112,"name":"Birdwatching"},{"pictogramId":137,"name":"Wildlife Watching"},{"pictogramId":39,"name":"Dog Sledding"},{"pictogramId":108,"name":"Camel"}]},{"name":"On Wheels","pictograms":[{"pictogramId":37,"name":"Skating"},{"pictogramId":55,"name":"Inline Skate"},{"pictogramId":107,"name":"Segway"},{"pictogramId":68,"name":"Longboard/ Skateboard"},{"pictogramId":136,"name":"Scooter"},{"pictogramId":67,"name":"Roller Ski"},{"pictogramId":133,"name":"Baby Stroller"}]},{"name":"Accessible","pictograms":[{"pictogramId":115,"name":"Handbike"},{"pictogramId":44,"name":"Reduced Mobility"},{"pictogramId":56,"name":"Blind People"},{"pictogramId":121,"name":"Joëlette"}]},{"name":"Motor","pictograms":[{"pictogramId":50,"name":"Car"},{"pictogramId":3,"name":"Off Road"},{"pictogramId":8,"name":"Road Motorbike"},{"pictogramId":38,"name":"Dual-sport Motorcycle"},{"pictogramId":6,"name":"Quad"},{"pictogramId":59,"name":"Enduro Motorcycle"},{"pictogramId":105,"name":"Motorhome"},{"pictogramId":58,"name":"Motorcycle Trials"}]},{"name":"Air","pictograms":[{"pictogramId":26,"name":"Plane"},{"pictogramId":20,"name":"Paragliding"},{"pictogramId":16,"name":"Hot Air Balloon"},{"pictogramId":15,"name":"Hang Gliding"},{"pictogramId":110,"name":"Drone"},{"pictogramId":120,"name":"BASE Jumping"}]},{"name":"Other","pictograms":[{"pictogramId":138,"name":"Flora Observation"},{"pictogramId":45,"name":"Train"},{"pictogramId":63,"name":"Multisport"},{"pictogramId":70,"name":"Golf"}]}],
+    
+    isUserPremium: false,
+    
+    dayJsModule: dayjs().locale(langDayJs),
+    socialLoginModule: SocialLogin,
+    socialLoginState: {
+      "step": "WEB_APPLE",
+      "language": "en",
+      "securityToken": "liki45qv6oca492314g732hcq1",
+      "id": "95cf5ffc3fe31efc6fc50a5071641957"
+    },
+      turnstileSiteKey: "0x4AAAAAAAjG92LAbhqjH9pi",
+    featuredAuthorsPosition: 4,
+    i18n: translations
+  };
+</script>
+
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/models/SearchUrlParams.min.756a462a.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/models/SearchDTO.min.fe092a1c.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/factory/circle-factory.min.7f3cc9f5.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/fitty@2.3.2/dist/fitty.min.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/trail-card.min.19cef113.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/pagination.min.b99d4a9d.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/login-modal.min.4c9da045.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/premium-modal.min.e3873c42.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/slider.min.35aafaa4.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/multiselect.min.94724903.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/crud-favlist.min.76d54e30.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/add-to-fav.min.20e21141.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/follow-modal.min.70ce8b8a.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/components/selector-icon.min.0fbaf86c.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/map-leaflet.min.7efa9250.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/image-masonry.min.4d783c9f.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/filters/shortcut-filter.min.d2b587cf.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/filters/filter-distance.min.c8d86752.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/filters/filter-elevation.min.d39312a9.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/filters/filter-difficulty.min.46664739.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/filters/filter-favoritelists.min.3444a3a9.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/filters/filter-since.min.a314a55a.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/filters/filter-months.min.8b1697db.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/filters/filter-yourtrails.min.ab70dc14.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/filters.min.a9632903.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/promoted-trails.min.00cc71fe.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/featured-authors.min.5a6dc525.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/org-header.min.536a7b23.js"></script>
+<script src="https://sc.wklcdn.com/wikiloc/assets/scripts/vue/pages/search/main.min.5bd9cc61.js"></script>
+
+
+</body>
+</html>
