@@ -12,6 +12,9 @@ const __dirname = path.dirname(__filename);
 const SOURCE_FILE = process.env.SOURCE || 'src/data/canyons_espana_descente_corregido.json';
 const OUTPUT_FILE = process.env.OUTPUT || 'src/data/canyons_espana_descente_con_wikiloc.json';
 const DEFAULT_ACTIVITY = process.env.WIKILOC_ACTIVITY || '46';
+const DEFAULT_MAP_URL =
+  process.env.WIKILOC_MAP_URL ||
+  'https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1';
 
 const resolvePath = (relativePath) => path.resolve(__dirname, '..', relativePath);
 
@@ -21,11 +24,15 @@ const loadDataset = async (filePath) => {
   return { absolutePath, data: JSON.parse(content) };
 };
 
-const buildSearchUrl = (name, province, activity) => {
-  const parts = [name, province].filter(Boolean).join(' ');
-  const query = encodeURIComponent(parts);
-  const activityParam = activity ? `&act=${encodeURIComponent(activity)}` : '';
-  return `https://www.wikiloc.com/wikiloc/find.do?q=${query}${activityParam}`;
+const buildSearchUrl = (_name, _province, activity) => {
+  if (process.env.WIKILOC_MAP_URL) {
+    return process.env.WIKILOC_MAP_URL;
+  }
+  if (activity && !DEFAULT_MAP_URL.includes('act=')) {
+    const separator = DEFAULT_MAP_URL.includes('?') ? '&' : '?';
+    return `${DEFAULT_MAP_URL}${separator}act=${encodeURIComponent(activity)}`;
+  }
+  return DEFAULT_MAP_URL;
 };
 
 const addSearchUrls = (dataset, activity) => {

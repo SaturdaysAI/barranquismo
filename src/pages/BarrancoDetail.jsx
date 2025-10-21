@@ -3,12 +3,14 @@ import { useParams, Link } from 'react-router-dom';
 import canyons from '../data/canyons.js';
 import useLocalStorage from '../hooks/useLocalStorage.js';
 import MapPreview from '../components/MapPreview.jsx';
+import StarRating from '../components/StarRating.jsx';
 
 // Detail page locates the requested canyon and shows extended information.
 function BarrancoDetail() {
   const { id } = useParams();
   const canyon = canyons.find((item) => item.id === id);
   const [favorites, setFavorites] = useLocalStorage('favorite-canyons', []);
+  const [userRatings, setUserRatings] = useLocalStorage('user-canyon-ratings', {});
   const [isGearOpen, setIsGearOpen] = useState(true);
   const [isLinksOpen, setIsLinksOpen] = useState(true);
   const [isMapOpen, setIsMapOpen] = useState(true);
@@ -26,6 +28,15 @@ function BarrancoDetail() {
   }
 
   const isFavorite = favorites.includes(canyon.id);
+  const baseVotes = typeof canyon.ratingVotes === 'number' ? canyon.ratingVotes : 0;
+  const baseAverage = typeof canyon.ratingAverage === 'number' ? canyon.ratingAverage : null;
+  const storedUserRating =
+    userRatings && typeof userRatings === 'object' && typeof userRatings[canyon.id] === 'number'
+      ? Math.max(1, Math.min(5, userRatings[canyon.id]))
+      : null;
+  const combinedVotes = baseVotes + (storedUserRating ? 1 : 0);
+  const totalScore = (baseAverage ?? 0) * baseVotes + (storedUserRating ?? 0);
+  const combinedAverage = combinedVotes > 0 ? totalScore / combinedVotes : 0;
 
   const toggleFavorite = () => {
     setFavorites((prev) => {
@@ -33,6 +44,18 @@ function BarrancoDetail() {
         return prev.filter((favId) => favId !== canyon.id);
       }
       return [...prev, canyon.id];
+    });
+  };
+
+  const handleRatingChange = (value) => {
+    setUserRatings((prev = {}) => {
+      const next = { ...prev };
+      if (next[canyon.id] === value) {
+        delete next[canyon.id];
+      } else {
+        next[canyon.id] = value;
+      }
+      return next;
     });
   };
 
@@ -48,6 +71,25 @@ function BarrancoDetail() {
         </div>
         {canyon.location?.text && <p className="detail-location">{canyon.location.text}</p>}
       </header>
+      <section className="detail-rating">
+        <StarRating
+          value={combinedAverage}
+          size="large"
+          onRate={handleRatingChange}
+          label={`Valorar ${canyon.name}`}
+        />
+        <div className="detail-rating__info">
+          <p className="detail-rating__average">
+            {combinedVotes > 0 ? `${combinedAverage.toFixed(1)} / 5 · ${combinedVotes} valoraciones` : 'Sin valoraciones todavía'}
+          </p>
+          <p className="detail-rating__user">
+            {storedUserRating
+              ? `Tu valoración: ${storedUserRating} / 5 (toca una estrella para cambiar o quitar).`
+              : 'Añade tu valoración tocando una estrella. Se guarda en tu dispositivo.'}
+          </p>
+        </div>
+  </section>
+
   {canyon.description && <p className="detail-description">{canyon.description}</p>}
 
       <section className="detail-section">

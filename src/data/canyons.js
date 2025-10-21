@@ -17,6 +17,76 @@ const parseNullableNumber = (value) => {
   return Number.isFinite(numberValue) ? numberValue : null;
 };
 
+const extractMaxRappelMeters = (value) => {
+  if (typeof value !== 'string') {
+    return null;
+  }
+  const match = value.match(/(\d+[\.,]?\d*)\s*(?:m|metros?)/i);
+  if (!match) {
+    return null;
+  }
+  const parsed = Number.parseFloat(match[1].replace(',', '.'));
+  return Number.isFinite(parsed) ? parsed : null;
+};
+
+const formatDifficulty = (value) => {
+  if (typeof value !== 'string') {
+    return 'Sin datos';
+  }
+  const normalized = normalizeString(value);
+  if (!normalized) {
+    return 'Sin datos';
+  }
+  if (normalized.toLowerCase() === 'sin datos') {
+    return 'Sin datos';
+  }
+
+  const uppercased = normalized.toUpperCase();
+
+  const extractComponent = (prefix) => {
+    const pattern = new RegExp(`${prefix}\\s*([0-9]+(?:[.,][0-9]+)?)`, 'i');
+    const match = pattern.exec(uppercased);
+    if (!match) {
+      return null;
+    }
+    const numericPart = match[1].replace(',', '.');
+    return `${prefix}${numericPart}`;
+  };
+
+  const vertical = extractComponent('V');
+  const aquatic = extractComponent('A');
+  const components = [vertical, aquatic].filter(Boolean);
+
+  if (components.length > 0) {
+    return components.join(' ');
+  }
+
+  const withoutRomans = uppercased.replace(/\b[IVXLCDM]+\b/g, ' ').replace(/[()]/g, ' ');
+  const cleaned = withoutRomans.replace(/\s{2,}/g, ' ').trim();
+  return cleaned || 'Sin datos';
+};
+
+const extractDifficultyComponent = (value, prefix) => {
+  if (typeof value !== 'string') {
+    return null;
+  }
+  const normalized = value.toUpperCase().trim();
+  if (normalized.startsWith(prefix)) {
+    const digits = normalized.slice(1).replace(',', '.');
+    if (digits.length === 0) {
+      return null;
+    }
+    return `${prefix}${digits}`;
+  }
+  const pattern = new RegExp(`${prefix}(\d+(?:\.\d+)?)`, 'i');
+  const match = pattern.exec(normalized);
+  if (!match) {
+    return null;
+  }
+  const numericPart = match[1].replace(',', '.');
+  return `${prefix}${numericPart}`;
+};
+
 const escapeRegExp = (value) => value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 const isMeaningful = (value) => {
@@ -166,7 +236,15 @@ const normalizedCanyons = combineSources
     const id = normalizedId ?? `canyon-${index}`;
     const baseName = normalizeString(item.name) ?? normalizeString(item.nombre);
     const name = stripLocationFromName(baseName, item) || baseName || 'Barranco sin nombre';
-    const difficulty = normalizeString(item.difficulty) ?? normalizeString(item.grado_VA) ?? normalizeString(item.dificultad) ?? 'Sin datos';
+    const difficultyCandidates = [item.difficulty, item.grado_VA, item.dificultad];
+    const rawDifficulty = difficultyCandidates.find((candidate) => typeof candidate === 'string' && normalizeString(candidate));
+    const difficulty = formatDifficulty(rawDifficulty ?? 'Sin datos');
+    const rawVerticalField = normalizeString(item.dificultad_vertical) ?? normalizeString(item.difficulty_vertical);
+    const rawAquaticField = normalizeString(item.dificultad_acuatica) ?? normalizeString(item.difficulty_aquatic);
+    const difficultyVertical =
+      extractDifficultyComponent(rawVerticalField, 'V') ?? extractDifficultyComponent(difficulty, 'V');
+    const difficultyAquatic =
+      extractDifficultyComponent(rawAquaticField, 'A') ?? extractDifficultyComponent(difficulty, 'A');
     const description =
       normalizeString(item.description) ??
       normalizeString(item.resumen) ??
@@ -204,6 +282,15 @@ const normalizedCanyons = combineSources
         .filter(Boolean);
     }
 
+    const rappelMeters =
+      extractMaxRappelMeters(item.rappel_mas_largo) ?? extractMaxRappelMeters(item.rapel_maximo);
+    if (rappelMeters !== null) {
+      const ropeText = `2 cuerdas de ${rappelMeters % 1 === 0 ? rappelMeters : Number.parseFloat(rappelMeters.toFixed(1))} m`;
+      if (!gear.some((entry) => entry && entry.toLowerCase() === ropeText.toLowerCase())) {
+        gear.push(ropeText);
+      }
+    }
+
     const cleanedCoordinates = (() => {
       if (!item.coordinates || typeof item.coordinates !== 'object') {
         return null;
@@ -232,14 +319,24 @@ const normalizedCanyons = combineSources
 
     const wikilocSearchUrl = typeof item.wikiloc_search_url === 'string' ? item.wikiloc_search_url.trim() : null;
 
+    const ratingAverageRaw = parseNullableNumber(item.rating_average ?? item.ratingAverage);
+    const ratingVotesRaw = parseNullableNumber(item.rating_votes ?? item.ratingVotes);
+    const ratingVotes = ratingVotesRaw !== null ? Math.max(0, Math.round(ratingVotesRaw)) : 0;
+    const ratingAverage = ratingAverageRaw !== null ? Number.parseFloat(ratingAverageRaw.toFixed(2)) : null;
+
     return {
       ...item,
       id,
       name,
       difficulty,
+      difficultyVertical,
+      difficultyAquatic,
       description: description || summary,
       summary,
       gear,
+      maxRappelMeters: rappelMeters,
+      ratingAverage,
+      ratingVotes,
       wikiloc: {
         approach: normalizeString(wikilocApproach) ?? null,
         return: normalizeString(wikilocReturn) ?? null,
@@ -300,12 +397,54 @@ const mergeCanyons = (first, second) => {
     };
   };
 
+  const mergeRating = () => {
+    const firstVotes = typeof first.ratingVotes === 'number' ? first.ratingVotes : 0;
+    const secondVotes = typeof second.ratingVotes === 'number' ? second.ratingVotes : 0;
+    const firstAverage = typeof first.ratingAverage === 'number' ? first.ratingAverage : null;
+    const secondAverage = typeof second.ratingAverage === 'number' ? second.ratingAverage : null;
+    const totalVotes = firstVotes + secondVotes;
+    if (totalVotes === 0) {
+      return {
+        ratingAverage: firstAverage ?? secondAverage ?? null,
+        ratingVotes: 0,
+      };
+    }
+    const totalScore = (firstAverage ?? 0) * firstVotes + (secondAverage ?? 0) * secondVotes;
+    return {
+      ratingAverage: Number.parseFloat((totalScore / totalVotes).toFixed(2)),
+      ratingVotes: totalVotes,
+    };
+  };
+
+  const mergedDifficulty = formatDifficulty(isBetterString(first.difficulty, second.difficulty));
+  const mergedRating = mergeRating();
+
   return {
     ...first,
     ...second,
     description: isBetterString(first.description, second.description),
     summary: isBetterString(first.summary, second.summary),
-    difficulty: isBetterString(first.difficulty, second.difficulty),
+    difficulty: mergedDifficulty,
+    difficultyVertical:
+      extractDifficultyComponent(isBetterString(first.difficultyVertical, second.difficultyVertical), 'V') ??
+      extractDifficultyComponent(mergedDifficulty, 'V') ??
+      first.difficultyVertical ??
+      second.difficultyVertical ??
+      null,
+    difficultyAquatic:
+      extractDifficultyComponent(isBetterString(first.difficultyAquatic, second.difficultyAquatic), 'A') ??
+      extractDifficultyComponent(mergedDifficulty, 'A') ??
+      first.difficultyAquatic ??
+      second.difficultyAquatic ??
+      null,
+    maxRappelMeters: (() => {
+      const asNumber = (value) => (typeof value === 'number' && Number.isFinite(value) ? value : null);
+      const secondValue = asNumber(second.maxRappelMeters);
+      const firstValue = asNumber(first.maxRappelMeters);
+      return secondValue ?? firstValue ?? null;
+    })(),
+    ratingAverage: mergedRating.ratingAverage,
+    ratingVotes: mergedRating.ratingVotes,
     gear: first.gear.length >= second.gear.length ? first.gear : second.gear,
     wikiloc: {
       approach: second.wikiloc?.approach ?? first.wikiloc?.approach ?? null,

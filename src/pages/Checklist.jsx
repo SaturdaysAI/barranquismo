@@ -1,23 +1,47 @@
 import { useState, useEffect } from 'react';
 import useLocalStorage from '../hooks/useLocalStorage.js';
 
+const CATEGORY_TRANSLATIONS = {
+  'Personal gear': 'Equipo personal',
+  'Technical gear': 'Equipo técnico',
+  Logistics: 'Logística'
+};
+
+const LABEL_TRANSLATIONS = {
+  'Neoprene suit': 'Traje de neopreno',
+  Helmet: 'Casco',
+  'Harness and descender': 'Arnés y descensor',
+  'Rope (2x length of longest rappel)': 'Cuerda (2x longitud del rápel más largo)',
+  'Dry bag with essentials': 'Saco estanco con esenciales'
+};
+
 const DEFAULT_ITEMS = [
-  { label: 'Neoprene suit', checked: false, category: 'Personal gear' },
-  { label: 'Helmet', checked: false, category: 'Personal gear' },
-  { label: 'Harness and descender', checked: false, category: 'Technical gear' },
-  { label: 'Rope (2x length of longest rappel)', checked: false, category: 'Technical gear' },
-  { label: 'Dry bag with essentials', checked: false, category: 'Logistics' }
+  { label: LABEL_TRANSLATIONS['Neoprene suit'], checked: false, category: CATEGORY_TRANSLATIONS['Personal gear'] },
+  { label: LABEL_TRANSLATIONS.Helmet, checked: false, category: CATEGORY_TRANSLATIONS['Personal gear'] },
+  { label: LABEL_TRANSLATIONS['Harness and descender'], checked: false, category: CATEGORY_TRANSLATIONS['Technical gear'] },
+  {
+    label: LABEL_TRANSLATIONS['Rope (2x length of longest rappel)'],
+    checked: false,
+    category: CATEGORY_TRANSLATIONS['Technical gear']
+  },
+  { label: LABEL_TRANSLATIONS['Dry bag with essentials'], checked: false, category: CATEGORY_TRANSLATIONS.Logistics }
 ];
+
+const translateToSpanish = (item) => {
+  const translatedCategory = CATEGORY_TRANSLATIONS[item.category] || item.category || 'Otros';
+  const translatedLabel = LABEL_TRANSLATIONS[item.label] || item.label;
+  return { ...item, category: translatedCategory, label: translatedLabel };
+};
 
 // Checklist allows users to tick essential gear and persists the selection locally.
 function Checklist() {
   const [savedItems, setSavedItems] = useLocalStorage('gear-checklist', DEFAULT_ITEMS);
-  const [items, setItems] = useState(() => savedItems.map((item) => ({ ...item })));
+  const [items, setItems] = useState(() => savedItems.map(translateToSpanish));
   const [newItem, setNewItem] = useState('');
-  const [newCategory, setNewCategory] = useState('Personal gear');
+  const [newCategory, setNewCategory] = useState(CATEGORY_TRANSLATIONS['Personal gear']);
 
   useEffect(() => {
-    setItems(savedItems.map((item) => ({ ...item })));
+    setItems(savedItems.map(translateToSpanish));
   }, [savedItems]);
 
   const toggleItem = (label) => {

@@ -13,7 +13,7 @@
     "tiempo_retorno": "45 min",
     "id": "21024",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21024/Escuain-inferior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20de%20Escuain%20(inferior)Pu%C3%A9rtolas%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.598278,
       "lng": 0.130798,
@@ -35,7 +35,11 @@
         "lat": 42.590446,
         "lng": 0.127527
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 174,
+    "rating_average": 4.68
   },
   {
     "nombre": "Barranco Chico Arasan (Huesca)",
@@ -51,7 +55,7 @@
     "tiempo_retorno": "45 min",
     "id": "21042",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21042/Chico.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Chico%20Arasan%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.533878,
       "lng": 0.513579,
@@ -73,7 +77,11 @@
         "lat": 42.530979,
         "lng": 0.514212
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 45,
+    "rating_average": 3.02
   },
   {
     "nombre": "Barranco Flageto - Metils Nerin (Huesca)",
@@ -89,7 +97,7 @@
     "tiempo_retorno": "45 min",
     "id": "21043",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21043/Flageto---Metils.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Flageto%20-%20Metils%20Nerin%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.563103,
       "lng": 0.033689,
@@ -111,7 +119,11 @@
         "lat": 42.562958,
         "lng": 0.033517
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 46,
+    "rating_average": 3.03
   },
   {
     "nombre": "Barranco del Furco Broto, Buesa (Huesca)",
@@ -127,7 +139,7 @@
     "tiempo_retorno": "45 min",
     "id": "21051",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21051/Furco.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Furco%20Broto%2C%20Buesa%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.596832,
       "lng": -0.111752,
@@ -149,7 +161,11 @@
         "lat": 42.598129,
         "lng": -0.117524
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 75,
+    "rating_average": 3.34
   },
   {
     "nombre": "Bosc de Serradellla Pobla de Segur, Erinya (Lérida)",
@@ -165,7 +181,7 @@
     "tiempo_retorno": "45 min",
     "id": "21052",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21052/Bosc-de-Serradell.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Bosc%20de%20Serradellla%20Pobla%20de%20Segur%2C%20Erinya%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.277721,
       "lng": 0.872733,
@@ -187,7 +203,11 @@
         "lat": 42.276119,
         "lng": 0.878944
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 76,
+    "rating_average": 3.35
   },
   {
     "nombre": "Freser (sup)Queralbs (Gerona)",
@@ -203,7 +223,7 @@
     "tiempo_retorno": "45 min",
     "id": "21077",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21077/Freser-sup.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Freser%20(sup)Queralbs%20(Gerona)%20Gerona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.38448,
       "lng": 2.218887,
@@ -225,7 +245,11 @@
         "lat": 42.364227,
         "lng": 2.174928
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 143,
+    "rating_average": 4.07
   },
   {
     "nombre": "Garganta de Estaronillo Tella-Sin (Huesca)",
@@ -241,7 +265,7 @@
     "tiempo_retorno": "45 min",
     "id": "21111",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21111/Estaronillo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20de%20Estaronillo%20Tella-Sin%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.593693,
       "lng": 0.134228,
@@ -268,7 +292,11 @@
         "lat": 42.592808,
         "lng": 0.153852
       }
-    ]
+    ],
+    "dificultad_vertical": "V1",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 156,
+    "rating_average": 3.09
   },
   {
     "nombre": "Aiguëta de Barbaruens Seira (Huesca)",
@@ -284,7 +312,7 @@
     "tiempo_retorno": "45 min",
     "id": "21113",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21113/Barbaruens.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Aigu%C3%ABta%20de%20Barbaruens%20Seira%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.53054,
       "lng": 0.396362,
@@ -306,7 +334,11 @@
         "lat": 42.496048,
         "lng": 0.396376
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 158,
+    "rating_average": 3.11
   },
   {
     "nombre": "Cascades de Cavorques Olot (Gerona)",
@@ -322,7 +354,7 @@
     "tiempo_retorno": "45 min",
     "id": "21135",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21135/Cavorques.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Cascades%20de%20Cavorques%20Olot%20(Gerona)%20Gerona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.140598,
       "lng": 2.375665,
@@ -349,7 +381,11 @@
         "lat": 42.145786,
         "lng": 2.395577
       }
-    ]
+    ],
+    "dificultad_vertical": "V5",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 33,
+    "rating_average": 3.8
   },
   {
     "nombre": "Rasa de Coll del Portla Coma i la Pedra (Lérida)",
@@ -365,7 +401,7 @@
     "tiempo_retorno": "45 min",
     "id": "21245",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21245/Coll-del-Port.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Rasa%20de%20Coll%20del%20Portla%20Coma%20i%20la%20Pedra%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.192062,
       "lng": 1.573124,
@@ -392,7 +428,11 @@
         "lat": 42.190132,
         "lng": 1.573695
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 80,
+    "rating_average": 2.91
   },
   {
     "nombre": "Barranc de l'Estret de les Penyes Bolulla (Alicante)",
@@ -408,7 +448,11 @@
     "tiempo_retorno": "45 min",
     "id": "21261",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21261/Estret-de-les-Penyes.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20l'Estret%20de%20les%20Penyes%20Bolulla%20(Alicante)%20Alicante&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 138,
+    "rating_average": 3.53
   },
   {
     "nombre": "Barranco de Pas Tancat Bolulla, Tàrbena (Alicante)",
@@ -424,7 +468,11 @@
     "tiempo_retorno": "45 min",
     "id": "21262",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21262/Pas-Tancat.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Pas%20Tancat%20Bolulla%2C%20T%C3%A0rbena%20(Alicante)%20Alicante&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 139,
+    "rating_average": 3.54
   },
   {
     "nombre": "Pas del Bandolers",
@@ -440,7 +488,11 @@
     "tiempo_retorno": "45 min",
     "id": "21263",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21263/Bandolers.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Pas%20del%20Bandolers%20Desconocida&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 140,
+    "rating_average": 3.55
   },
   {
     "nombre": "Barranc del Sant Confrides (Alicante)",
@@ -456,7 +508,11 @@
     "tiempo_retorno": "45 min",
     "id": "21264",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21264/Sant.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20del%20Sant%20Confrides%20(Alicante)%20Alicante&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 141,
+    "rating_average": 3.56
   },
   {
     "nombre": "Barranco de Mela Confrides (Alicante)",
@@ -472,7 +528,11 @@
     "tiempo_retorno": "45 min",
     "id": "21265",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21265/Mela.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Mela%20Confrides%20(Alicante)%20Alicante&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 142,
+    "rating_average": 3.57
   },
   {
     "nombre": "Barranco de l'Infern Pego (Alicante)",
@@ -488,7 +548,7 @@
     "tiempo_retorno": "45 min",
     "id": "21272",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21272/Infern.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20l'Infern%20Pego%20(Alicante)%20Alicante&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 38.784901,
       "lng": -0.130291,
@@ -520,7 +580,11 @@
         "lat": 38.788395,
         "lng": -0.136321
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 170,
+    "rating_average": 3.87
   },
   {
     "nombre": "Barranco de Otonel Millares, Dos Aguas (Valencia)",
@@ -536,7 +600,11 @@
     "tiempo_retorno": "45 min",
     "id": "21273",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21273/Otonel.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Otonel%20Millares%2C%20Dos%20Aguas%20(Valencia)%20Valencia&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V5",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 171,
+    "rating_average": 3.88
   },
   {
     "nombre": "Barranco de Bercolon Tuéjar (Valencia)",
@@ -552,7 +620,11 @@
     "tiempo_retorno": "45 min",
     "id": "21274",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21274/Bercolon.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Bercolon%20Tu%C3%A9jar%20(Valencia)%20Valencia&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 172,
+    "rating_average": 3.89
   },
   {
     "nombre": "Barranco de Juanes Bunol (Valencia)",
@@ -568,7 +640,11 @@
     "tiempo_retorno": "45 min",
     "id": "21275",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21275/Juanes.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Juanes%20Bunol%20(Valencia)%20Valencia&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 173,
+    "rating_average": 3.91
   },
   {
     "nombre": "Riu Glorieta Mont-Ral (Tarragona)",
@@ -584,7 +660,7 @@
     "tiempo_retorno": "45 min",
     "id": "21277",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21277/Glorieta.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Riu%20Glorieta%20Mont-Ral%20(Tarragona)%20Tarragona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 41.28104,
       "lng": 1.093094,
@@ -611,7 +687,11 @@
         "lat": 41.266178,
         "lng": 1.132836
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 175,
+    "rating_average": 3.93
   },
   {
     "nombre": "Barranco de Carcalin Bunol (Valencia)",
@@ -627,7 +707,11 @@
     "tiempo_retorno": "45 min",
     "id": "21279",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21279/Carcalin.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Carcalin%20Bunol%20(Valencia)%20Valencia&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 177,
+    "rating_average": 3.95
   },
   {
     "nombre": "Canyon de Valcarlos Luzaide (Provincia de Navarra, Navarra)",
@@ -643,7 +727,7 @@
     "tiempo_retorno": "45 min",
     "id": "21314",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21314/Valcarlos.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Canyon%20de%20Valcarlos%20Luzaide%20(Provincia%20de%20Navarra%2C%20Navarra)%20Provincia%20de%20Navarra&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.078453,
       "lng": -1.305839,
@@ -660,7 +744,11 @@
         "lat": 43.077896,
         "lng": -1.306837
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 191,
+    "rating_average": 2.99
   },
   {
     "nombre": "Salt de la Farga La Pobla de Lillet, Castellar'n'hug (Barcelona)",
@@ -676,7 +764,7 @@
     "tiempo_retorno": "45 min",
     "id": "21330",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21330/Farga.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Salt%20de%20la%20Farga%20La%20Pobla%20de%20Lillet%2C%20Castellar'n'hug%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.278629,
       "lng": 2.004659,
@@ -698,7 +786,11 @@
         "lat": 42.278473,
         "lng": 2.004597
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 60,
+    "rating_average": 3.61
   },
   {
     "nombre": "Garona (inférieur)(Huesca)",
@@ -714,7 +806,7 @@
     "tiempo_retorno": "45 min",
     "id": "21365",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21365/Garona-inferieur.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garona%20(inf%C3%A9rieur)(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.507381,
       "lng": 0.222859,
@@ -736,7 +828,11 @@
         "lat": 42.542206,
         "lng": 0.197067
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 158,
+    "rating_average": 4.65
   },
   {
     "nombre": "Aiguëta d'Eriste (inférieur)Sahún (Huesca)",
@@ -752,7 +848,7 @@
     "tiempo_retorno": "45 min",
     "id": "21409",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21409/Eriste-inferieur.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Aigu%C3%ABta%20d'Eriste%20(inf%C3%A9rieur)Sah%C3%BAn%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.596508,
       "lng": 0.481211,
@@ -779,7 +875,11 @@
         "lat": 42.588726,
         "lng": 0.49049
       }
-    ]
+    ],
+    "dificultad_vertical": "V6",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 181,
+    "rating_average": 3.79
   },
   {
     "nombre": "Barranco de las Fuentes de la Muria Bisaurri (Huesca)",
@@ -795,7 +895,7 @@
     "tiempo_retorno": "45 min",
     "id": "21420",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21420/Fuentes-de-la-Muria.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20las%20Fuentes%20de%20la%20Muria%20Bisaurri%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.449966,
       "lng": 0.537171,
@@ -807,7 +907,11 @@
         "lat": 42.449966,
         "lng": 0.537171
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 45,
+    "rating_average": 4.35
   },
   {
     "nombre": "Barranc Caramell Gurp (Lérida)",
@@ -823,7 +927,7 @@
     "tiempo_retorno": "45 min",
     "id": "21421",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21421/Caramell.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20Caramell%20Gurp%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.231922,
       "lng": 0.85182,
@@ -845,7 +949,11 @@
         "lat": 42.225105,
         "lng": 0.848065
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 46,
+    "rating_average": 4.37
   },
   {
     "nombre": "Barranco del Cebollar San Nicolas de Bujaruelo (Huesca)",
@@ -861,7 +969,7 @@
     "tiempo_retorno": "45 min",
     "id": "21422",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21422/Cebollar.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Cebollar%20San%20Nicolas%20de%20Bujaruelo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.662113,
       "lng": -0.124369,
@@ -883,7 +991,11 @@
         "lat": 42.667339,
         "lng": -0.121236
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 47,
+    "rating_average": 4.38
   },
   {
     "nombre": "Barranco de Aguaré Canfranc (Huesca)",
@@ -899,7 +1011,7 @@
     "tiempo_retorno": "45 min",
     "id": "21433",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21433/Aguare.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Aguar%C3%A9%20Canfranc%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.721416,
       "lng": -0.543909,
@@ -926,7 +1038,11 @@
         "lat": 42.714512,
         "lng": -0.525756
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 79,
+    "rating_average": 4.72
   },
   {
     "nombre": "Barranco de Alpan Colungo (Huesca)",
@@ -942,7 +1058,7 @@
     "tiempo_retorno": "45 min",
     "id": "21455",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21455/Alpan.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Alpan%20Colungo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.188751,
       "lng": 0.046134,
@@ -964,7 +1080,11 @@
         "lat": 42.190628,
         "lng": 0.051799
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 143,
+    "rating_average": 3.1
   },
   {
     "nombre": "Foz de Fago Fago (Huesca)",
@@ -980,7 +1100,7 @@
     "tiempo_retorno": "45 min",
     "id": "21498",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21498/Fago.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Foz%20de%20Fago%20Fago%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.710697,
       "lng": -0.861483,
@@ -1007,7 +1127,11 @@
         "lat": 42.698902,
         "lng": -0.867491
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 81,
+    "rating_average": 4.46
   },
   {
     "nombre": "Barranco d'Estribiella Valle de Hecho (Huesca)",
@@ -1023,7 +1147,7 @@
     "tiempo_retorno": "45 min",
     "id": "21499",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21499/Estribiella.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20d'Estribiella%20Valle%20de%20Hecho%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.831448,
       "lng": -0.730076,
@@ -1045,7 +1169,11 @@
         "lat": 42.831413,
         "lng": -0.712395
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 82,
+    "rating_average": 4.47
   },
   {
     "nombre": "Barranco de Diablozulo Monreal/Elo, Monreal (Provincia de Navarra)",
@@ -1061,7 +1189,7 @@
     "tiempo_retorno": "45 min",
     "id": "21501",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21501/Diablozulo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Diablozulo%20Monreal%2FElo%2C%20Monreal%20(Provincia%20de%20Navarra)%20Provincia%20de%20Navarra&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.703491,
       "lng": -1.538826,
@@ -1093,7 +1221,11 @@
         "lat": 42.705658,
         "lng": -1.538585
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 189,
+    "rating_average": 4.78
   },
   {
     "nombre": "Barranco de Forronías Sabiñánigo, Panticosa (Huesca)",
@@ -1109,7 +1241,7 @@
     "tiempo_retorno": "45 min",
     "id": "21502",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21502/Forronias.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Forron%C3%ADas%20Sabi%C3%B1%C3%A1nigo%2C%20Panticosa%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.73579,
       "lng": -0.276847,
@@ -1131,7 +1263,11 @@
         "lat": 42.729584,
         "lng": -0.277748
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 190,
+    "rating_average": 4.79
   },
   {
     "nombre": "Palomeras del Flumen Santa Eulalia de la Pena, Sabayes (Huesca)",
@@ -1147,7 +1283,7 @@
     "tiempo_retorno": "45 min",
     "id": "21503",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21503/Flumen.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Palomeras%20del%20Flumen%20Santa%20Eulalia%20de%20la%20Pena%2C%20Sabayes%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.257893,
       "lng": -0.375839,
@@ -1169,7 +1305,11 @@
         "lat": 42.256252,
         "lng": -0.385809
       }
-    ]
+    ],
+    "dificultad_vertical": "V6",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 191,
+    "rating_average": 4.8
   },
   {
     "nombre": "Barranc d'Estaron(Lérida)",
@@ -1185,7 +1325,7 @@
     "tiempo_retorno": "45 min",
     "id": "21505",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21505/Estaron.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20d'Estaron(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.543652,
       "lng": 1.182731,
@@ -1212,7 +1352,11 @@
         "lat": 42.537849,
         "lng": 1.17867
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 193,
+    "rating_average": 4.83
   },
   {
     "nombre": "Barranc de Berros Berros Jussa (Lérida)",
@@ -1228,7 +1372,7 @@
     "tiempo_retorno": "45 min",
     "id": "21508",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21508/Berros.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20Berros%20Berros%20Jussa%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.574726,
       "lng": 1.152765,
@@ -1245,7 +1389,11 @@
         "lat": 42.576111,
         "lng": 1.142725
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 196,
+    "rating_average": 4.86
   },
   {
     "nombre": "Barranco de Estavill Estavill (Lérida)",
@@ -1261,7 +1409,7 @@
     "tiempo_retorno": "45 min",
     "id": "21509",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21509/Estavill.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Estavill%20Estavill%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.352589,
       "lng": 0.946069,
@@ -1288,7 +1436,11 @@
         "lat": 42.341091,
         "lng": 0.954309
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 197,
+    "rating_average": 4.87
   },
   {
     "nombre": "Arandari Burgui/Burgi, Burgui (Provincia de Navarra)",
@@ -1304,7 +1456,7 @@
     "tiempo_retorno": "45 min",
     "id": "21529",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21529/Arandari.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Arandari%20Burgui%2FBurgi%2C%20Burgui%20(Provincia%20de%20Navarra)%20Provincia%20de%20Navarra&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.723007,
       "lng": -1.020806,
@@ -1326,7 +1478,11 @@
         "lat": 42.714134,
         "lng": -1.009412
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 70,
+    "rating_average": 3.23
   },
   {
     "nombre": "Foz de Cuasacas Proaza (Provincia de Asturias)",
@@ -1342,7 +1498,7 @@
     "tiempo_retorno": "45 min",
     "id": "21530",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21530/Cuasacas.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Foz%20de%20Cuasacas%20Proaza%20(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.244358,
       "lng": -5.983214,
@@ -1364,7 +1520,11 @@
         "lat": 43.249172,
         "lng": -5.994265
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 92,
+    "rating_average": 3.47
   },
   {
     "nombre": "Barranco de Taràn San Emiliano (León)",
@@ -1380,7 +1540,11 @@
     "tiempo_retorno": "45 min",
     "id": "21531",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21531/Taran.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Tar%C3%A0n%20San%20Emiliano%20(Le%C3%B3n)%20Le%C3%B3n&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 93,
+    "rating_average": 3.48
   },
   {
     "nombre": "Estrechos del Rio Sella Oseja de Sajambre (León)",
@@ -1396,7 +1560,11 @@
     "tiempo_retorno": "45 min",
     "id": "21532",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21532/Sella.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Estrechos%20del%20Rio%20Sella%20Oseja%20de%20Sajambre%20(Le%C3%B3n)%20Le%C3%B3n&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": null,
+    "dificultad_acuatica": null,
+    "rating_votes": 94,
+    "rating_average": 3.49
   },
   {
     "nombre": "Desfiladero de las Xanas Proaza (Provincia de Asturias)",
@@ -1412,7 +1580,7 @@
     "tiempo_retorno": "45 min",
     "id": "21533",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21533/Xanas.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Desfiladero%20de%20las%20Xanas%20Proaza%20(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.267738,
       "lng": -5.980682,
@@ -1429,7 +1597,11 @@
         "lat": 43.273987,
         "lng": -5.993299
       }
-    ]
+    ],
+    "dificultad_vertical": null,
+    "dificultad_acuatica": null,
+    "rating_votes": 95,
+    "rating_average": 3.5
   },
   {
     "nombre": "Viboli Cangas de Onís, Viboli (Provincia de Asturias)",
@@ -1445,7 +1617,7 @@
     "tiempo_retorno": "45 min",
     "id": "21534",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21534/Viboli.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Viboli%20Cangas%20de%20On%C3%ADs%2C%20Viboli%20(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.182678,
       "lng": -5.098321,
@@ -1462,7 +1634,11 @@
         "lat": 43.187405,
         "lng": -5.079932
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 96,
+    "rating_average": 3.51
   },
   {
     "nombre": "Barranco de Gallines (inférieur)Plan (Huesca)",
@@ -1478,7 +1654,7 @@
     "tiempo_retorno": "45 min",
     "id": "21535",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21535/Gallines-inferieur.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Gallines%20(inf%C3%A9rieur)Plan%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.55817,
       "lng": 0.2844,
@@ -1505,7 +1681,11 @@
         "lat": 42.56171,
         "lng": 0.271397
       }
-    ]
+    ],
+    "dificultad_vertical": "V5",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 97,
+    "rating_average": 3.52
   },
   {
     "nombre": "Cueva de la Leze Aspárrena (Álava)",
@@ -1521,7 +1701,7 @@
     "tiempo_retorno": "45 min",
     "id": "21539",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21539/Leze.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Cueva%20de%20la%20Leze%20Asp%C3%A1rrena%20(%C3%81lava)%20%C3%81lava&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.883858,
       "lng": -2.270093,
@@ -1543,7 +1723,11 @@
         "lat": 42.87936,
         "lng": -2.276316
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 101,
+    "rating_average": 3.56
   },
   {
     "nombre": "Cuevas de la Reina Castilsabas-Vadiello (Huesca)",
@@ -1559,7 +1743,7 @@
     "tiempo_retorno": "45 min",
     "id": "21541",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21541/Cuevas-de-la-Reina.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Cuevas%20de%20la%20Reina%20Castilsabas-Vadiello%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.248035,
       "lng": -0.274025,
@@ -1576,7 +1760,11 @@
         "lat": 42.247723,
         "lng": -0.277314
       }
-    ]
+    ],
+    "dificultad_vertical": null,
+    "dificultad_acuatica": null,
+    "rating_votes": 124,
+    "rating_average": 3.81
   },
   {
     "nombre": "Barranco de Bilse (superior)Seira (Huesca)",
@@ -1592,7 +1780,7 @@
     "tiempo_retorno": "45 min",
     "id": "21549",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21549/Bilse-superior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Bilse%20(superior)Seira%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.512634,
       "lng": 0.371175,
@@ -1604,7 +1792,11 @@
         "lat": 42.512634,
         "lng": 0.371175
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 132,
+    "rating_average": 3.89
   },
   {
     "nombre": "Barranco de Salt Pego, Fleix (Alicante)",
@@ -1620,7 +1812,7 @@
     "tiempo_retorno": "45 min",
     "id": "21557",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21557/Salt.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Salt%20Pego%2C%20Fleix%20(Alicante)%20Alicante&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 38.778393,
       "lng": -0.115056,
@@ -1642,7 +1834,11 @@
         "lat": 38.778175,
         "lng": -0.110614
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 161,
+    "rating_average": 4.2
   },
   {
     "nombre": "Canyon de Fecha Lobios (Orense)",
@@ -1658,7 +1854,7 @@
     "tiempo_retorno": "45 min",
     "id": "21558",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21558/Fecha.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Canyon%20de%20Fecha%20Lobios%20(Orense)%20Orense&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 41.843464,
       "lng": -8.105485,
@@ -1690,7 +1886,11 @@
         "lat": 41.843109,
         "lng": -8.105872
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 162,
+    "rating_average": 4.22
   },
   {
     "nombre": "Cañon del Quincoajo Sena de Luna (León)",
@@ -1706,7 +1906,7 @@
     "tiempo_retorno": "45 min",
     "id": "21560",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21560/Quincoajo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Ca%C3%B1on%20del%20Quincoajo%20Sena%20de%20Luna%20(Le%C3%B3n)%20Le%C3%B3n&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.937698,
       "lng": -5.870218,
@@ -1728,7 +1928,11 @@
         "lat": 42.927017,
         "lng": -5.866957
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 185,
+    "rating_average": 4.46
   },
   {
     "nombre": "Barranco de la Font Bordonera Organyà (Lérida)",
@@ -1744,7 +1948,7 @@
     "tiempo_retorno": "45 min",
     "id": "21578",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21578/Font-Bordonera.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20la%20Font%20Bordonera%20Organy%C3%A0%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.201637,
       "lng": 1.299396,
@@ -1771,7 +1975,11 @@
         "lat": 42.199299,
         "lng": 1.319928
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 35,
+    "rating_average": 4.88
   },
   {
     "nombre": "Barranc de l'Aveller(Lérida)",
@@ -1787,7 +1995,7 @@
     "tiempo_retorno": "45 min",
     "id": "21579",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21579/Aveller.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20l'Aveller(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.231747,
       "lng": 1.385361,
@@ -1814,7 +2022,11 @@
         "lat": 42.245102,
         "lng": 1.349012
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 36,
+    "rating_average": 4.89
   },
   {
     "nombre": "Cascades d'Irusta Irún (Guipúzcoa)",
@@ -1830,7 +2042,7 @@
     "tiempo_retorno": "45 min",
     "id": "21586",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21586/Irusta.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Cascades%20d'Irusta%20Ir%C3%BAn%20(Guip%C3%BAzcoa)%20Guip%C3%BAzcoa&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.305725,
       "lng": -1.774437,
@@ -1847,7 +2059,11 @@
         "lat": 43.307693,
         "lng": -1.771417
       }
-    ]
+    ],
+    "dificultad_vertical": null,
+    "dificultad_acuatica": null,
+    "rating_votes": 64,
+    "rating_average": 2.89
   },
   {
     "nombre": "Barranc de la Fou(Tarragona)",
@@ -1863,7 +2079,7 @@
     "tiempo_retorno": "45 min",
     "id": "21589",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21589/Fou.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20la%20Fou(Tarragona)%20Tarragona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.749779,
       "lng": 0.25672,
@@ -1890,7 +2106,11 @@
         "lat": 40.733364,
         "lng": 0.25234
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 67,
+    "rating_average": 2.92
   },
   {
     "nombre": "Fou de Cardo Cardo (Tarragona)",
@@ -1906,7 +2126,7 @@
     "tiempo_retorno": "45 min",
     "id": "21590",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21590/Cardo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Fou%20de%20Cardo%20Cardo%20(Tarragona)%20Tarragona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.956627,
       "lng": 0.570661,
@@ -1928,7 +2148,11 @@
         "lat": 40.958202,
         "lng": 0.576375
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 89,
+    "rating_average": 3.16
   },
   {
     "nombre": "Barranco de Les Fonts de Paüls Pauls (Tarragona)",
@@ -1944,7 +2168,7 @@
     "tiempo_retorno": "45 min",
     "id": "21592",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21592/Fonts-de-Pauls.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Les%20Fonts%20de%20Pa%C3%BCls%20Pauls%20(Tarragona)%20Tarragona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.938675,
       "lng": 0.379286,
@@ -1966,7 +2190,11 @@
         "lat": 40.924053,
         "lng": 0.401795
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 91,
+    "rating_average": 3.18
   },
   {
     "nombre": "Arroyo de la Hoz de Somera Santa Christina (Provincia de Cuenca)",
@@ -1982,7 +2210,11 @@
     "tiempo_retorno": "45 min",
     "id": "21601",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21601/Hoz-de-Somera.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Arroyo%20de%20la%20Hoz%20de%20Somera%20Santa%20Christina%20(Provincia%20de%20Cuenca)%20Provincia%20de%20Cuenca&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 16,
+    "rating_average": 3.56
   },
   {
     "nombre": "Barranco de Badajoz Güímar (Santa Cruz de Tenerife)",
@@ -1998,7 +2230,7 @@
     "tiempo_retorno": "45 min",
     "id": "21624",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21624/Badajoz.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Badajoz%20G%C3%BC%C3%ADmar%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.30444,
       "lng": -16.453739,
@@ -2020,7 +2252,11 @@
         "lat": 28.305874,
         "lng": -16.454727
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 81,
+    "rating_average": 4.26
   },
   {
     "nombre": "Barranco de Herques Fasnia, Güímar (Santa Cruz de Tenerife)",
@@ -2036,7 +2272,7 @@
     "tiempo_retorno": "45 min",
     "id": "21625",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21625/Herques.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Herques%20Fasnia%2C%20G%C3%BC%C3%ADmar%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.249987,
       "lng": -16.439152,
@@ -2063,7 +2299,11 @@
         "lat": 28.229107,
         "lng": -16.412373
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 82,
+    "rating_average": 4.27
   },
   {
     "nombre": "Barranco de los Carrizales Buenavista del Norte (Santa Cruz de Tenerife)",
@@ -2079,7 +2319,7 @@
     "tiempo_retorno": "45 min",
     "id": "21626",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21626/Carrizales.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20los%20Carrizales%20Buenavista%20del%20Norte%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.319927,
       "lng": -16.869637,
@@ -2106,7 +2346,11 @@
         "lat": 28.319918,
         "lng": -16.86558
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 83,
+    "rating_average": 4.28
   },
   {
     "nombre": "Cañon de Navedo Peñarrubia (Provincia de Cantabria)",
@@ -2122,7 +2366,7 @@
     "tiempo_retorno": "45 min",
     "id": "21643",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21643/Navedo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Ca%C3%B1on%20de%20Navedo%20Pe%C3%B1arrubia%20(Provincia%20de%20Cantabria)%20Provincia%20de%20Cantabria&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.249222,
       "lng": -4.58117,
@@ -2144,7 +2388,11 @@
         "lat": 43.245327,
         "lng": -4.584818
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 142,
+    "rating_average": 2.61
   },
   {
     "nombre": "Garganta del Chorro Álora (Málaga)",
@@ -2160,7 +2408,7 @@
     "tiempo_retorno": "45 min",
     "id": "21644",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21644/Chorro.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20del%20Chorro%20%C3%81lora%20(M%C3%A1laga)%20M%C3%A1laga&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 36.931927,
       "lng": -4.786665,
@@ -2187,7 +2435,11 @@
         "lat": 36.912415,
         "lng": -4.765899
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 143,
+    "rating_average": 2.62
   },
   {
     "nombre": "Barranco del rio Xallas Carnota (La Coruña)",
@@ -2203,7 +2455,7 @@
     "tiempo_retorno": "45 min",
     "id": "21645",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21645/Xallas.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20rio%20Xallas%20Carnota%20(La%20Coru%C3%B1a)%20La%20Coru%C3%B1a&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.914165,
       "lng": -9.108181,
@@ -2230,7 +2482,11 @@
         "lat": 42.912811,
         "lng": -9.121313
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 144,
+    "rating_average": 2.63
   },
   {
     "nombre": "Barranco de Amanaderos Camarena de la Sierra, Riodeva (Teruel)",
@@ -2246,7 +2502,7 @@
     "tiempo_retorno": "45 min",
     "id": "21646",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21646/Amanaderos.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Amanaderos%20Camarena%20de%20la%20Sierra%2C%20Riodeva%20(Teruel)%20Teruel&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.11108,
       "lng": -1.089594,
@@ -2268,7 +2524,11 @@
         "lat": 40.109966,
         "lng": -1.096219
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 145,
+    "rating_average": 2.64
   },
   {
     "nombre": "Cañón de Vallegón Cangas de Onís, Amieva (Provincia de Asturias)",
@@ -2284,7 +2544,7 @@
     "tiempo_retorno": "45 min",
     "id": "21648",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21648/Vallegon.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Ca%C3%B1%C3%B3n%20de%20Valleg%C3%B3n%20Cangas%20de%20On%C3%ADs%2C%20Amieva%20(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.236168,
       "lng": -5.075877,
@@ -2321,7 +2581,11 @@
         "lat": 43.237419,
         "lng": -5.084782
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 147,
+    "rating_average": 2.66
   },
   {
     "nombre": "Barranco de Almanchares Canillas de Aceituno (Málaga)",
@@ -2337,7 +2601,7 @@
     "tiempo_retorno": "45 min",
     "id": "21649",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21649/Almanchares.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Almanchares%20Canillas%20de%20Aceituno%20(M%C3%A1laga)%20M%C3%A1laga&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 36.879242,
       "lng": -4.05683,
@@ -2359,7 +2623,11 @@
         "lat": 36.872017,
         "lng": -4.064362
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 148,
+    "rating_average": 2.67
   },
   {
     "nombre": "Barranco de Trescares Peñamellera Alta (Provincia de Asturias)",
@@ -2375,7 +2643,7 @@
     "tiempo_retorno": "45 min",
     "id": "21650",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21650/Trescares.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Trescares%20Pe%C3%B1amellera%20Alta%20(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.307022,
       "lng": -4.706912,
@@ -2397,7 +2665,11 @@
         "lat": 43.315357,
         "lng": -4.71704
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 170,
+    "rating_average": 2.91
   },
   {
     "nombre": "Garganta del Guadiaro Cortes de la Frontera, Gaucín (Málaga)",
@@ -2413,7 +2685,7 @@
     "tiempo_retorno": "45 min",
     "id": "21652",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21652/Guadiaro.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20del%20Guadiaro%20Cortes%20de%20la%20Frontera%2C%20Gauc%C3%ADn%20(M%C3%A1laga)%20M%C3%A1laga&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 36.566391,
       "lng": -5.368946,
@@ -2440,7 +2712,11 @@
         "lat": 36.539604,
         "lng": -5.378644
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 172,
+    "rating_average": 2.93
   },
   {
     "nombre": "Barranc de la Caramella Tortosa, Roquetas (Tarragona)",
@@ -2456,7 +2732,7 @@
     "tiempo_retorno": "45 min",
     "id": "21653",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21653/Caramella.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20la%20Caramella%20Tortosa%2C%20Roquetas%20(Tarragona)%20Tarragona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.811527,
       "lng": 0.381496,
@@ -2483,7 +2759,11 @@
         "lat": 40.804691,
         "lng": 0.387568
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 173,
+    "rating_average": 2.94
   },
   {
     "nombre": "Rio Jucar Una (Provincia de Cuenca)",
@@ -2499,7 +2779,7 @@
     "tiempo_retorno": "45 min",
     "id": "21667",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21667/Jucar.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Rio%20Jucar%20Una%20(Provincia%20de%20Cuenca)%20Provincia%20de%20Cuenca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.244495,
       "lng": -2.057199,
@@ -2541,7 +2821,11 @@
         "lat": 40.24622,
         "lng": -2.053039
       }
-    ]
+    ],
+    "dificultad_vertical": "V1",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 19,
+    "rating_average": 3.32
   },
   {
     "nombre": "Arroyo de la Dehesa Cuenca, Poyatos (Provincia de Cuenca)",
@@ -2557,7 +2841,7 @@
     "tiempo_retorno": "45 min",
     "id": "21668",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21668/Dehesa.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Arroyo%20de%20la%20Dehesa%20Cuenca%2C%20Poyatos%20(Provincia%20de%20Cuenca)%20Provincia%20de%20Cuenca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.43433,
       "lng": -2.027408,
@@ -2584,7 +2868,11 @@
         "lat": 40.416016,
         "lng": -2.031367
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 20,
+    "rating_average": 3.33
   },
   {
     "nombre": "Barranco d'os Fornazos Bierge (Huesca)",
@@ -2600,7 +2888,7 @@
     "tiempo_retorno": "45 min",
     "id": "21699",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21699/Fornazos.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20d'os%20Fornazos%20Bierge%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.307755,
       "lng": -0.066197,
@@ -2617,7 +2905,11 @@
         "lat": 42.308102,
         "lng": -0.068944
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 114,
+    "rating_average": 4.33
   },
   {
     "nombre": "Aigüeta de Eriste I & II (sup)Sahún (Huesca)",
@@ -2633,7 +2925,7 @@
     "tiempo_retorno": "45 min",
     "id": "21701",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21701/Eriste-I---II-sup.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Aig%C3%BCeta%20de%20Eriste%20I%20%26%20II%20(sup)Sah%C3%BAn%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.626522,
       "lng": 0.46556,
@@ -2655,7 +2947,11 @@
         "lat": 42.613995,
         "lng": 0.47832
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 32,
+    "rating_average": 4.64
   },
   {
     "nombre": "Congost del (Rio)Cajigar Benabarre (Huesca)",
@@ -2671,7 +2967,7 @@
     "tiempo_retorno": "45 min",
     "id": "21702",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21702/Cajigar.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Congost%20del%20(Rio)Cajigar%20Benabarre%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.10284,
       "lng": 0.555711,
@@ -2698,7 +2994,11 @@
         "lat": 42.097252,
         "lng": 0.561118
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 33,
+    "rating_average": 4.65
   },
   {
     "nombre": "Garganta de Escarilla Escarilla (Huesca)",
@@ -2714,7 +3014,7 @@
     "tiempo_retorno": "45 min",
     "id": "21706",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21706/Escarilla.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20de%20Escarilla%20Escarilla%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.748337,
       "lng": -0.315471,
@@ -2736,7 +3036,11 @@
         "lat": 42.742126,
         "lng": -0.315149
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 37,
+    "rating_average": 4.7
   },
   {
     "nombre": "Barranco de les Espones Mont Ros, Capdella (Lérida)",
@@ -2752,7 +3056,7 @@
     "tiempo_retorno": "45 min",
     "id": "21708",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21708/Espones.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20les%20Espones%20Mont%20Ros%2C%20Capdella%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.409771,
       "lng": 0.998511,
@@ -2779,7 +3083,11 @@
         "lat": 42.406982,
         "lng": 0.980079
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 39,
+    "rating_average": 4.72
   },
   {
     "nombre": "Canyon de Gravet Rupit i Pruit (Barcelona)",
@@ -2795,7 +3103,7 @@
     "tiempo_retorno": "45 min",
     "id": "21760",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21760/Gravet.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Canyon%20de%20Gravet%20Rupit%20i%20Pruit%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.021275,
       "lng": 2.483296,
@@ -2817,7 +3125,11 @@
         "lat": 42.010098,
         "lng": 2.473329
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 28,
+    "rating_average": 4.32
   },
   {
     "nombre": "Barranco de Las Gambuesas Arafo (Santa Cruz de Tenerife)",
@@ -2833,7 +3145,7 @@
     "tiempo_retorno": "45 min",
     "id": "21763",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21763/Gambuesas.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Las%20Gambuesas%20Arafo%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.342007,
       "lng": -16.456682,
@@ -2860,7 +3172,11 @@
         "lat": 28.343328,
         "lng": -16.433315
       }
-    ]
+    ],
+    "dificultad_vertical": "V5",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 31,
+    "rating_average": 4.35
   },
   {
     "nombre": "Torrent del Clot de la Sajolida El Bruc (Barcelona)",
@@ -2876,7 +3192,7 @@
     "tiempo_retorno": "45 min",
     "id": "21777",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21777/Clot-de-la-Sajolida.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20del%20Clot%20de%20la%20Sajolida%20El%20Bruc%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 41.593529,
       "lng": 1.813833,
@@ -2898,7 +3214,11 @@
         "lat": 41.582516,
         "lng": 1.809472
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 66,
+    "rating_average": 4.73
   },
   {
     "nombre": "Canyon de la Bañera Boltaña (Huesca)",
@@ -2914,7 +3234,7 @@
     "tiempo_retorno": "45 min",
     "id": "21783",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21783/Banera.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Canyon%20de%20la%20Ba%C3%B1era%20Bolta%C3%B1a%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.436253,
       "lng": 0.040555,
@@ -2936,7 +3256,11 @@
         "lat": 42.439293,
         "lng": 0.04549
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 93,
+    "rating_average": 2.72
   },
   {
     "nombre": "Barranco de Espantaperros Alhama de Granada (Provincia de Granada)",
@@ -2952,7 +3276,7 @@
     "tiempo_retorno": "45 min",
     "id": "21800",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21800/Espantaperros.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Espantaperros%20Alhama%20de%20Granada%20(Provincia%20de%20Granada)%20Provincia%20de%20Granada&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 37.043018,
       "lng": -4.056487,
@@ -2979,7 +3303,11 @@
         "lat": 37.030823,
         "lng": -4.022713
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 47,
+    "rating_average": 3.41
   },
   {
     "nombre": "Barranco de Akerreta Ataun (Guipúzcoa)",
@@ -2995,7 +3323,7 @@
     "tiempo_retorno": "45 min",
     "id": "21814",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21814/Akerreta.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Akerreta%20Ataun%20(Guip%C3%BAzcoa)%20Guip%C3%BAzcoa&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.960384,
       "lng": -2.099902,
@@ -3007,7 +3335,11 @@
         "lat": 42.960384,
         "lng": -2.099902
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 82,
+    "rating_average": 3.79
   },
   {
     "nombre": "Barranco de Arritzaga Amezketa (Guipúzcoa)",
@@ -3023,7 +3355,7 @@
     "tiempo_retorno": "45 min",
     "id": "21815",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21815/Arritzaga.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Arritzaga%20Amezketa%20(Guip%C3%BAzcoa)%20Guip%C3%BAzcoa&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.037136,
       "lng": -2.067815,
@@ -3035,7 +3367,11 @@
         "lat": 43.037136,
         "lng": -2.067815
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 83,
+    "rating_average": 3.8
   },
   {
     "nombre": "Barranco de la Garona Salvatierra de Esca, Castillonuevo (Provincia de Navarra, Zaragoza)",
@@ -3051,7 +3387,7 @@
     "tiempo_retorno": "45 min",
     "id": "21818",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21818/Garona.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20la%20Garona%20Salvatierra%20de%20Esca%2C%20Castillonuevo%20(Provincia%20de%20Navarra%2C%20Zaragoza)%20Provincia%20de%20Navarra&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.66433,
       "lng": -1.039306,
@@ -3063,7 +3399,11 @@
         "lat": 42.66433,
         "lng": -1.039306
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 86,
+    "rating_average": 3.83
   },
   {
     "nombre": "Barranco de la Sierra Navascués/Nabaskoze, Navascués (Provincia de Navarra)",
@@ -3079,7 +3419,7 @@
     "tiempo_retorno": "45 min",
     "id": "21819",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21819/Sierra.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20la%20Sierra%20Navascu%C3%A9s%2FNabaskoze%2C%20Navascu%C3%A9s%20(Provincia%20de%20Navarra)%20Provincia%20de%20Navarra&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.716042,
       "lng": -1.07137,
@@ -3096,7 +3436,11 @@
         "lat": 42.713959,
         "lng": -1.0771
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 87,
+    "rating_average": 3.84
   },
   {
     "nombre": "Ruisseau de Guazalamanco Pozo Alcón (Provincia de Jaén)",
@@ -3112,7 +3456,7 @@
     "tiempo_retorno": "45 min",
     "id": "21838",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21838/Guazalamanco.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Ruisseau%20de%20Guazalamanco%20Pozo%20Alc%C3%B3n%20(Provincia%20de%20Ja%C3%A9n)%20Provincia%20de%20Ja%C3%A9n&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 37.804104,
       "lng": -2.93541,
@@ -3124,7 +3468,11 @@
         "lat": 37.804104,
         "lng": -2.93541
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 148,
+    "rating_average": 4.49
   },
   {
     "nombre": "Salto de los Catalanes(Provincia de Cuenca)",
@@ -3140,7 +3488,11 @@
     "tiempo_retorno": "45 min",
     "id": "21855",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21855/Catalanes.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Salto%20de%20los%20Catalanes(Provincia%20de%20Cuenca)%20Provincia%20de%20Cuenca&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 18,
+    "rating_average": 2.82
   },
   {
     "nombre": "Hocecilla I(Provincia de Cuenca)",
@@ -3156,7 +3508,11 @@
     "tiempo_retorno": "45 min",
     "id": "21879",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21879/Hocecilla-I.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Hocecilla%20I(Provincia%20de%20Cuenca)%20Provincia%20de%20Cuenca&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 84,
+    "rating_average": 3.53
   },
   {
     "nombre": "Barranco Hospital Valle de Hecho (Huesca)",
@@ -3172,7 +3528,7 @@
     "tiempo_retorno": "45 min",
     "id": "21920",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21920/Hospital.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Hospital%20Valle%20de%20Hecho%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.764626,
       "lng": -0.766125,
@@ -3194,7 +3550,11 @@
         "lat": 42.755882,
         "lng": -0.753572
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 125,
+    "rating_average": 2.86
   },
   {
     "nombre": "Barranc de Boixols (par affluent RD)Abella de la Conca (Lérida)",
@@ -3210,7 +3570,7 @@
     "tiempo_retorno": "45 min",
     "id": "21942",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21942/Boixols-par-affluent-RD.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20Boixols%20(par%20affluent%20RD)Abella%20de%20la%20Conca%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.169086,
       "lng": 1.161284,
@@ -3232,7 +3592,11 @@
         "lat": 42.17086,
         "lng": 1.157636
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 189,
+    "rating_average": 3.54
   },
   {
     "nombre": "Barranco Fondo Veracruz (Huesca)",
@@ -3248,7 +3612,7 @@
     "tiempo_retorno": "45 min",
     "id": "21950",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21950/Fondo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Fondo%20Veracruz%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.388283,
       "lng": 0.611694,
@@ -3260,7 +3624,11 @@
         "lat": 42.388283,
         "lng": 0.611694
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 29,
+    "rating_average": 3.85
   },
   {
     "nombre": "Barranco de Escomentué(Huesca)",
@@ -3276,7 +3644,7 @@
     "tiempo_retorno": "45 min",
     "id": "21964",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21964/Escomentue.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Escomentu%C3%A9(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.251328,
       "lng": -0.296343,
@@ -3298,7 +3666,11 @@
         "lat": 42.238335,
         "lng": -0.28573
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 64,
+    "rating_average": 4.23
   },
   {
     "nombre": "Cañon de la Faminosa Abiego (Huesca)",
@@ -3314,7 +3686,7 @@
     "tiempo_retorno": "45 min",
     "id": "21989",
     "url": "https://www.descente-canyon.com/canyoning/canyon/21989/Faminosa.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Ca%C3%B1on%20de%20la%20Faminosa%20Abiego%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.173279,
       "lng": -0.090744,
@@ -3366,7 +3738,11 @@
         "lat": 42.112877,
         "lng": -0.10555
       }
-    ]
+    ],
+    "dificultad_vertical": "V1",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 131,
+    "rating_average": 2.64
   },
   {
     "nombre": "Costa de la Llosa Valderrobres, Beceite (Teruel)",
@@ -3382,7 +3758,7 @@
     "tiempo_retorno": "45 min",
     "id": "22076",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22076/Costa-de-la-Llosa.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Costa%20de%20la%20Llosa%20Valderrobres%2C%20Beceite%20(Teruel)%20Teruel&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.813671,
       "lng": 0.251711,
@@ -3404,7 +3780,11 @@
         "lat": 40.81295,
         "lng": 0.244809
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 71,
+    "rating_average": 3.05
   },
   {
     "nombre": "Barranco Chisalic Parzan (Huesca)",
@@ -3420,7 +3800,11 @@
     "tiempo_retorno": "45 min",
     "id": "22118",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22118/Chisalic.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Chisalic%20Parzan%20(Huesca)%20Huesca&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 92,
+    "rating_average": 4.46
   },
   {
     "nombre": "Gargantas de Chistau Plan (Huesca)",
@@ -3436,7 +3820,7 @@
     "tiempo_retorno": "45 min",
     "id": "22120",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22120/Chistau-.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Gargantas%20de%20Chistau%20Plan%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.652775,
       "lng": 0.361884,
@@ -3468,7 +3852,11 @@
         "lat": 42.622387,
         "lng": 0.344996
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 115,
+    "rating_average": 4.71
   },
   {
     "nombre": "Cascadas de Duratón Somosierra (Provincia de Madrid)",
@@ -3484,7 +3872,7 @@
     "tiempo_retorno": "45 min",
     "id": "22133",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22133/Duraton.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Cascadas%20de%20Durat%C3%B3n%20Somosierra%20(Provincia%20de%20Madrid)%20Provincia%20de%20Madrid&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 41.147186,
       "lng": -3.569098,
@@ -3506,7 +3894,11 @@
         "lat": 41.144245,
         "lng": -3.578045
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 149,
+    "rating_average": 2.77
   },
   {
     "nombre": "Garganta de Galin Gomez Nava del Barco, Navalonguilla (Provincia de Ávila)",
@@ -3522,7 +3914,7 @@
     "tiempo_retorno": "45 min",
     "id": "22135",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22135/Galin-Gomez.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20de%20Galin%20Gomez%20Nava%20del%20Barco%2C%20Navalonguilla%20(Provincia%20de%20%C3%81vila)%20Provincia%20de%20%C3%81vila&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.230331,
       "lng": -5.574188,
@@ -3544,7 +3936,11 @@
         "lat": 40.273567,
         "lng": -5.560048
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 151,
+    "rating_average": 2.79
   },
   {
     "nombre": "Garganta de los Papuos Jerte (Cáceres)",
@@ -3560,7 +3956,7 @@
     "tiempo_retorno": "45 min",
     "id": "22136",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22136/Papuos.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20de%20los%20Papuos%20Jerte%20(C%C3%A1ceres)%20C%C3%A1ceres&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.251068,
       "lng": -5.746708,
@@ -3582,7 +3978,11 @@
         "lat": 40.224041,
         "lng": -5.74792
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 152,
+    "rating_average": 2.8
   },
   {
     "nombre": "Barranco del Horno(Las Palmas)",
@@ -3598,7 +3998,7 @@
     "tiempo_retorno": "45 min",
     "id": "22167",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22167/Horno.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Horno(Las%20Palmas)%20Las%20Palmas&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 27.843678,
       "lng": -15.667738,
@@ -3620,7 +4020,11 @@
         "lat": 27.844893,
         "lng": -15.662491
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 57,
+    "rating_average": 3.81
   },
   {
     "nombre": "Barranco Ascaso Boltaña (Huesca)",
@@ -3636,7 +4040,7 @@
     "tiempo_retorno": "45 min",
     "id": "22210",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22210/Ascaso.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Ascaso%20Bolta%C3%B1a%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.486073,
       "lng": 0.041006,
@@ -3658,7 +4062,11 @@
         "lat": 42.478237,
         "lng": 0.047894
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 100,
+    "rating_average": 3.16
   },
   {
     "nombre": "Barranco de Mozul Tuéjar (Valencia)",
@@ -3674,7 +4082,11 @@
     "tiempo_retorno": "45 min",
     "id": "22236",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22236/Mozul.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Mozul%20Tu%C3%A9jar%20(Valencia)%20Valencia&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 168,
+    "rating_average": 3.88
   },
   {
     "nombre": "Garganta del Aguas Limpias Sallent de Gallego (Huesca)",
@@ -3690,7 +4102,7 @@
     "tiempo_retorno": "45 min",
     "id": "22238",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22238/Aguas-Limpias.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20del%20Aguas%20Limpias%20Sallent%20de%20Gallego%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.819675,
       "lng": -0.334665,
@@ -3712,7 +4124,11 @@
         "lat": 42.797352,
         "lng": -0.332744
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 170,
+    "rating_average": 3.91
   },
   {
     "nombre": "Cascade d'I Caleyu et La Hoz de Miñances Las Arenas (Provincia de Asturias)",
@@ -3728,7 +4144,7 @@
     "tiempo_retorno": "45 min",
     "id": "22239",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22239/I-Caleyu-et-La-Hoz-de-Minances.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Cascade%20d'I%20Caleyu%20et%20La%20Hoz%20de%20Mi%C3%B1ances%20Las%20Arenas%20(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.289131,
       "lng": -4.767251,
@@ -3750,7 +4166,11 @@
         "lat": 43.296074,
         "lng": -4.770234
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 171,
+    "rating_average": 3.92
   },
   {
     "nombre": "El Beyu Tres Puniellos(Provincia de Asturias)",
@@ -3766,7 +4186,7 @@
     "tiempo_retorno": "45 min",
     "id": "22240",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22240/Tres-Puniellos.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=El%20Beyu%20Tres%20Puniellos(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.185905,
       "lng": -5.072722,
@@ -3788,7 +4208,11 @@
         "lat": 43.187675,
         "lng": -5.077545
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 193,
+    "rating_average": 4.15
   },
   {
     "nombre": "La Foz de Tolivia(León)",
@@ -3804,7 +4228,11 @@
     "tiempo_retorno": "45 min",
     "id": "22241",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22241/Tolivia.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=La%20Foz%20de%20Tolivia(Le%C3%B3n)%20Le%C3%B3n&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 194,
+    "rating_average": 4.16
   },
   {
     "nombre": "Pompedru(Provincia de Asturias)",
@@ -3820,7 +4248,7 @@
     "tiempo_retorno": "45 min",
     "id": "22259",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22259/Pompedru.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Pompedru(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.305462,
       "lng": -4.915459,
@@ -3842,7 +4270,11 @@
         "lat": 43.309341,
         "lng": -4.911833
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 44,
+    "rating_average": 4.58
   },
   {
     "nombre": "Estrechos de Carruaca Belsue (Huesca)",
@@ -3858,7 +4290,7 @@
     "tiempo_retorno": "45 min",
     "id": "22261",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22261/Carruaca.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Estrechos%20de%20Carruaca%20Belsue%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.314526,
       "lng": -0.31517,
@@ -3885,7 +4317,11 @@
         "lat": 42.315067,
         "lng": -0.322423
       }
-    ]
+    ],
+    "dificultad_vertical": "V1",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 67,
+    "rating_average": 4.83
   },
   {
     "nombre": "Cañon de Arure Valle Gran Rey (Santa Cruz de Tenerife)",
@@ -3901,7 +4337,7 @@
     "tiempo_retorno": "45 min",
     "id": "22286",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22286/Arure.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Ca%C3%B1on%20de%20Arure%20Valle%20Gran%20Rey%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.13217,
       "lng": -17.322906,
@@ -3918,7 +4354,11 @@
         "lat": 28.106367,
         "lng": -17.326
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 134,
+    "rating_average": 3.24
   },
   {
     "nombre": "Barranco de Argaga Vallehermoso (Santa Cruz de Tenerife)",
@@ -3934,7 +4374,7 @@
     "tiempo_retorno": "45 min",
     "id": "22287",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22287/Argaga.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Argaga%20Vallehermoso%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.08024,
       "lng": -17.324293,
@@ -3946,7 +4386,11 @@
         "lat": 28.08024,
         "lng": -17.324293
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 135,
+    "rating_average": 3.25
   },
   {
     "nombre": "Barranco del Agua Valle Gran Rey, Vallehermoso (Santa Cruz de Tenerife)",
@@ -3962,7 +4406,7 @@
     "tiempo_retorno": "45 min",
     "id": "22288",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22288/Agua.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Agua%20Valle%20Gran%20Rey%2C%20Vallehermoso%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.119171,
       "lng": -17.286737,
@@ -3979,7 +4423,11 @@
         "lat": 28.117388,
         "lng": -17.30463
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 136,
+    "rating_average": 3.26
   },
   {
     "nombre": "Saltadero del Cedro Hermigua (Santa Cruz de Tenerife)",
@@ -3995,7 +4443,7 @@
     "tiempo_retorno": "45 min",
     "id": "22289",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22289/Cedro.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Saltadero%20del%20Cedro%20Hermigua%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.141489,
       "lng": -17.211514,
@@ -4007,7 +4455,11 @@
         "lat": 28.141489,
         "lng": -17.211514
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 137,
+    "rating_average": 3.27
   },
   {
     "nombre": "Barranco Atalaya Beratón (Soria)",
@@ -4023,7 +4475,7 @@
     "tiempo_retorno": "45 min",
     "id": "22300",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22300/Atalaya.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Atalaya%20Berat%C3%B3n%20(Soria)%20Soria&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 41.701588,
       "lng": -1.807297,
@@ -4040,7 +4492,11 @@
         "lat": 41.700375,
         "lng": -1.799569
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 85,
+    "rating_average": 3.91
   },
   {
     "nombre": "Traversée souterraine de Hundidero-Gato Ronda, Montejaque (Málaga)",
@@ -4056,7 +4512,7 @@
     "tiempo_retorno": "45 min",
     "id": "22303",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22303/Hundidero-Gato.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Travers%C3%A9e%20souterraine%20de%20Hundidero-Gato%20Ronda%2C%20Montejaque%20(M%C3%A1laga)%20M%C3%A1laga&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 36.752659,
       "lng": -5.237539,
@@ -4083,7 +4539,11 @@
         "lat": 36.726494,
         "lng": -5.236906
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 88,
+    "rating_average": 3.94
   },
   {
     "nombre": "Canón de Anisclo (med)Puértolas (Huesca)",
@@ -4099,7 +4559,7 @@
     "tiempo_retorno": "45 min",
     "id": "22410",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22410/Anisclo-med.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Can%C3%B3n%20de%20Anisclo%20(med)Pu%C3%A9rtolas%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.615108,
       "lng": 0.052571,
@@ -4116,7 +4576,11 @@
         "lat": 42.57135,
         "lng": 0.05343
       }
-    ]
+    ],
+    "dificultad_vertical": null,
+    "dificultad_acuatica": null,
+    "rating_votes": 132,
+    "rating_average": 3.02
   },
   {
     "nombre": "Barranco de Gallisué Fanlo (Huesca)",
@@ -4132,7 +4596,7 @@
     "tiempo_retorno": "45 min",
     "id": "22480",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22480/Gallisue.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Gallisu%C3%A9%20Fanlo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.517235,
       "lng": 0.089843,
@@ -4154,7 +4618,11 @@
         "lat": 42.515392,
         "lng": 0.10452
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 160,
+    "rating_average": 3.04
   },
   {
     "nombre": "Barranc dels Cubars (inferior)La Horta de San Juan (Tarragona)",
@@ -4170,7 +4638,7 @@
     "tiempo_retorno": "45 min",
     "id": "22485",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22485/Cubars-inferior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20dels%20Cubars%20(inferior)La%20Horta%20de%20San%20Juan%20(Tarragona)%20Tarragona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.925571,
       "lng": 0.328308,
@@ -4192,7 +4660,11 @@
         "lat": 40.925686,
         "lng": 0.328646
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 165,
+    "rating_average": 3.09
   },
   {
     "nombre": "Barranco d'as Chorroteras Casbas de Huesca (Huesca)",
@@ -4208,7 +4680,7 @@
     "tiempo_retorno": "45 min",
     "id": "22535",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22535/Chorroteras.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20d'as%20Chorroteras%20Casbas%20de%20Huesca%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.228043,
       "lng": -0.179214,
@@ -4220,7 +4692,11 @@
         "lat": 42.228043,
         "lng": -0.179214
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 26,
+    "rating_average": 4.81
   },
   {
     "nombre": "Barranco Cueva del Vero Colungo (Huesca)",
@@ -4236,7 +4712,11 @@
     "tiempo_retorno": "45 min",
     "id": "22560",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22560/Cueva-del-Vero.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Cueva%20del%20Vero%20Colungo%20(Huesca)%20Huesca&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 114,
+    "rating_average": 3.46
   },
   {
     "nombre": "Barranc de Durro Durro (Lérida)",
@@ -4252,7 +4732,7 @@
     "tiempo_retorno": "45 min",
     "id": "22585",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22585/Durro.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20Durro%20Durro%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.503391,
       "lng": 0.80992,
@@ -4264,7 +4744,11 @@
         "lat": 42.503391,
         "lng": 0.80992
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 181,
+    "rating_average": 4.17
   },
   {
     "nombre": "Barranco de las Gargantas Colungo (Huesca)",
@@ -4280,7 +4764,7 @@
     "tiempo_retorno": "45 min",
     "id": "22587",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22587/Gargantas.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20las%20Gargantas%20Colungo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.18969,
       "lng": 0.060017,
@@ -4307,7 +4791,11 @@
         "lat": 42.17281,
         "lng": 0.065414
       }
-    ]
+    ],
+    "dificultad_vertical": "V1",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 183,
+    "rating_average": 4.19
   },
   {
     "nombre": "Barranco Cerrigüelo Bierge, Alberuela de Laliena (Huesca)",
@@ -4323,7 +4811,7 @@
     "tiempo_retorno": "45 min",
     "id": "22588",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22588/Cerriguelo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Cerrig%C3%BCelo%20Bierge%2C%20Alberuela%20de%20Laliena%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.204552,
       "lng": -0.033216,
@@ -4360,7 +4848,11 @@
         "lat": 42.169064,
         "lng": -0.03871
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 184,
+    "rating_average": 4.2
   },
   {
     "nombre": "Barranco de Fuenblanca Bielsa (Huesca)",
@@ -4376,7 +4868,7 @@
     "tiempo_retorno": "45 min",
     "id": "22594",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22594/Fuenblanca.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Fuenblanca%20Bielsa%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.646416,
       "lng": 0.13225,
@@ -4398,7 +4890,11 @@
         "lat": 42.652584,
         "lng": 0.131067
       }
-    ]
+    ],
+    "dificultad_vertical": "V5",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 22,
+    "rating_average": 4.49
   },
   {
     "nombre": "Aigüeta de Eriste III (med)Sahún (Huesca)",
@@ -4414,7 +4910,7 @@
     "tiempo_retorno": "45 min",
     "id": "22622",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22622/Eriste-III-med.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Aig%C3%BCeta%20de%20Eriste%20III%20(med)Sah%C3%BAn%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.613728,
       "lng": 0.477805,
@@ -4441,7 +4937,11 @@
         "lat": 42.595715,
         "lng": 0.484166
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A6",
+    "rating_votes": 197,
+    "rating_average": 3.23
   },
   {
     "nombre": "Barranco del Sijar Beniardá (Alicante)",
@@ -4457,7 +4957,11 @@
     "tiempo_retorno": "45 min",
     "id": "22632",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22632/Sijar.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Sijar%20Beniard%C3%A1%20(Alicante)%20Alicante&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 39,
+    "rating_average": 3.56
   },
   {
     "nombre": "Torrent de Binifaldo Escorca (Provincia de las Islas Baleares)",
@@ -4473,7 +4977,11 @@
     "tiempo_retorno": "45 min",
     "id": "22649",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22649/Binifaldo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20de%20Binifaldo%20Escorca%20(Provincia%20de%20las%20Islas%20Baleares)%20Provincia%20de%20las%20Islas%20Baleares&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 77,
+    "rating_average": 3.97
   },
   {
     "nombre": "Torrent des Guix Deià (Provincia de las Islas Baleares)",
@@ -4489,7 +4997,7 @@
     "tiempo_retorno": "45 min",
     "id": "22667",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22667/Guix.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20des%20Guix%20Dei%C3%A0%20(Provincia%20de%20las%20Islas%20Baleares)%20Provincia%20de%20las%20Islas%20Baleares&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.740631,
       "lng": 2.617833,
@@ -4511,7 +5019,11 @@
         "lat": 39.739201,
         "lng": 2.618283
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 137,
+    "rating_average": 4.61
   },
   {
     "nombre": "Canal d'En Marc Mas de Barberans (Tarragona)",
@@ -4527,7 +5039,11 @@
     "tiempo_retorno": "45 min",
     "id": "22670",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22670/En-Marc.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Canal%20d'En%20Marc%20Mas%20de%20Barberans%20(Tarragona)%20Tarragona&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 161,
+    "rating_average": 4.87
   },
   {
     "nombre": "Barranco de Argatìn (superior)Colungo (Huesca)",
@@ -4543,7 +5059,7 @@
     "tiempo_retorno": "45 min",
     "id": "22694",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22694/Argatin-superior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Argat%C3%ACn%20(superior)Colungo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.216545,
       "lng": 0.049983,
@@ -4555,7 +5071,11 @@
         "lat": 42.216545,
         "lng": 0.049983
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 38,
+    "rating_average": 3.27
   },
   {
     "nombre": "Canyon de Cicera La Hermida, Cicera (Provincia de Asturias)",
@@ -4571,7 +5091,7 @@
     "tiempo_retorno": "45 min",
     "id": "22773",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22773/Cicera.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Canyon%20de%20Cicera%20La%20Hermida%2C%20Cicera%20(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.233299,
       "lng": -4.55,
@@ -4583,7 +5103,11 @@
         "lat": 43.233299,
         "lng": -4.55
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 180,
+    "rating_average": 3.68
   },
   {
     "nombre": "Barranco Balata Abizanda (Huesca)",
@@ -4599,7 +5123,7 @@
     "tiempo_retorno": "45 min",
     "id": "22945",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22945/Balata.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Balata%20Abizanda%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.242561,
       "lng": 0.164108,
@@ -4631,7 +5155,11 @@
         "lat": 42.242229,
         "lng": 0.168228
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 121,
+    "rating_average": 4.87
   },
   {
     "nombre": "Barranco dels Penyals Pego (Alicante)",
@@ -4647,7 +5175,7 @@
     "tiempo_retorno": "45 min",
     "id": "22971",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22971/Penyals.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20dels%20Penyals%20Pego%20(Alicante)%20Alicante&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 38.804371,
       "lng": -0.188297,
@@ -4669,7 +5197,11 @@
         "lat": 38.804371,
         "lng": -0.188297
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 21,
+    "rating_average": 3.52
   },
   {
     "nombre": "Barranco Cantacuc Pego, Planes (Alicante)",
@@ -4685,7 +5217,7 @@
     "tiempo_retorno": "45 min",
     "id": "22981",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22981/Cantacuc.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Cantacuc%20Pego%2C%20Planes%20(Alicante)%20Alicante&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 38.778214,
       "lng": -0.304911,
@@ -4702,7 +5234,11 @@
         "lat": 38.778587,
         "lng": -0.314106
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 52,
+    "rating_average": 3.85
   },
   {
     "nombre": "Barranco de Chinipres Canfranc (Huesca)",
@@ -4718,7 +5254,7 @@
     "tiempo_retorno": "45 min",
     "id": "22993",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22993/Chinipres.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Chinipres%20Canfranc%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.776062,
       "lng": -0.512516,
@@ -4730,7 +5266,11 @@
         "lat": 42.776062,
         "lng": -0.512516
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 85,
+    "rating_average": 4.2
   },
   {
     "nombre": "Barranco Del Pinar Confrides (Alicante)",
@@ -4746,7 +5286,7 @@
     "tiempo_retorno": "45 min",
     "id": "22995",
     "url": "https://www.descente-canyon.com/canyoning/canyon/22995/Del-Pinar.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Del%20Pinar%20Confrides%20(Alicante)%20Alicante&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 38.708675,
       "lng": -0.290436,
@@ -4763,7 +5303,11 @@
         "lat": 38.70097,
         "lng": -0.287511
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 87,
+    "rating_average": 4.23
   },
   {
     "nombre": "Barranco de Fanali(Alicante)",
@@ -4779,7 +5323,7 @@
     "tiempo_retorno": "45 min",
     "id": "23003",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23003/Fanali.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Fanali(Alicante)%20Alicante&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 38.686111,
       "lng": -0.2577,
@@ -4796,7 +5340,11 @@
         "lat": 38.69228,
         "lng": -0.250625
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 158,
+    "rating_average": 4.29
   },
   {
     "nombre": "Barranco de Relleu Relleu (Alicante)",
@@ -4812,7 +5360,7 @@
     "tiempo_retorno": "45 min",
     "id": "23016",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23016/Relleu.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Relleu%20Relleu%20(Alicante)%20Alicante&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 38.567432,
       "lng": -0.291739,
@@ -4829,7 +5377,11 @@
         "lat": 38.558289,
         "lng": -0.270875
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 192,
+    "rating_average": 4.65
   },
   {
     "nombre": "Barranco de las Amoladoras Canales (Provincia de Granada)",
@@ -4845,7 +5397,7 @@
     "tiempo_retorno": "45 min",
     "id": "23047",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23047/Amoladoras.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20las%20Amoladoras%20Canales%20(Provincia%20de%20Granada)%20Provincia%20de%20Granada&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 37.138935,
       "lng": -3.483972,
@@ -4867,7 +5419,11 @@
         "lat": 37.155891,
         "lng": -3.477806
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 97,
+    "rating_average": 3.36
   },
   {
     "nombre": "Garganta del Costechal Escarilla (Huesca)",
@@ -4883,7 +5439,7 @@
     "tiempo_retorno": "45 min",
     "id": "23058",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23058/Costechal.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20del%20Costechal%20Escarilla%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.735382,
       "lng": -0.310621,
@@ -4905,7 +5461,11 @@
         "lat": 42.737778,
         "lng": -0.318196
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 129,
+    "rating_average": 3.7
   },
   {
     "nombre": "Barranco de Caldarés Panticosa (Huesca)",
@@ -4921,7 +5481,7 @@
     "tiempo_retorno": "45 min",
     "id": "23059",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23059/Caldares.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Caldar%C3%A9s%20Panticosa%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.765854,
       "lng": -0.230885,
@@ -4943,7 +5503,11 @@
         "lat": 42.762444,
         "lng": -0.233009
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 130,
+    "rating_average": 3.71
   },
   {
     "nombre": "Barranc de Coll Redo Valderrobres, Beceite, Tortosa, Roquetas (Teruel, Tarragona)",
@@ -4959,7 +5523,11 @@
     "tiempo_retorno": "45 min",
     "id": "23084",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23084/Coll-Redo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20Coll%20Redo%20Valderrobres%2C%20Beceite%2C%20Tortosa%2C%20Roquetas%20(Teruel%2C%20Tarragona)%20Teruel&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 29,
+    "rating_average": 4.65
   },
   {
     "nombre": "Gorgo de la Escalera Anna (Valencia)",
@@ -4975,7 +5543,7 @@
     "tiempo_retorno": "45 min",
     "id": "23087",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23087/Escalera.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Gorgo%20de%20la%20Escalera%20Anna%20(Valencia)%20Valencia&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.010845,
       "lng": -0.645231,
@@ -4997,7 +5565,11 @@
         "lat": 39.010761,
         "lng": -0.645033
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 32,
+    "rating_average": 4.69
   },
   {
     "nombre": "Barranco de Arcos de Chimoche Orotava, La, Orotava (Santa Cruz de Tenerife)",
@@ -5013,7 +5585,7 @@
     "tiempo_retorno": "45 min",
     "id": "23088",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23088/Arcos-de-Chimoche.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Arcos%20de%20Chimoche%20Orotava%2C%20La%2C%20Orotava%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.339624,
       "lng": -16.499889,
@@ -5035,7 +5607,11 @@
         "lat": 28.357454,
         "lng": -16.50252
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 33,
+    "rating_average": 4.7
   },
   {
     "nombre": "Barranco de la Ermita de Bodijar Almuñécar, Otívar (Provincia de Granada)",
@@ -5051,7 +5627,7 @@
     "tiempo_retorno": "45 min",
     "id": "23095",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23095/Ermita-de-Bodijar.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20la%20Ermita%20de%20Bodijar%20Almu%C3%B1%C3%A9car%2C%20Ot%C3%ADvar%20(Provincia%20de%20Granada)%20Provincia%20de%20Granada&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 36.814316,
       "lng": -3.655606,
@@ -5068,7 +5644,11 @@
         "lat": 36.807442,
         "lng": -3.658225
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 61,
+    "rating_average": 2.7
   },
   {
     "nombre": "Barranco Borrué Fanlo (Huesca)",
@@ -5084,7 +5664,7 @@
     "tiempo_retorno": "45 min",
     "id": "23197",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23197/Borrue.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Borru%C3%A9%20Fanlo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.590782,
       "lng": -0.023142,
@@ -5096,7 +5676,11 @@
         "lat": 42.590782,
         "lng": -0.023142
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 79,
+    "rating_average": 3.8
   },
   {
     "nombre": "Barranco El Congustro Isábena (Huesca)",
@@ -5112,7 +5696,7 @@
     "tiempo_retorno": "45 min",
     "id": "23311",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23311/Congustro.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20El%20Congustro%20Is%C3%A1bena%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.314869,
       "lng": 0.513039,
@@ -5134,7 +5718,11 @@
         "lat": 42.314152,
         "lng": 0.514412
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 46,
+    "rating_average": 3.24
   },
   {
     "nombre": "Barranco Campo Pozino Labuerda (Huesca)",
@@ -5150,7 +5738,7 @@
     "tiempo_retorno": "45 min",
     "id": "23381",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23381/Campo-Pozino.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Campo%20Pozino%20Labuerda%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.475636,
       "lng": 0.137907,
@@ -5172,7 +5760,11 @@
         "lat": 42.470943,
         "lng": 0.144505
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 74,
+    "rating_average": 3.26
   },
   {
     "nombre": "Barranco del Aguila San Bartolomé de Tirajana (Las Palmas)",
@@ -5188,7 +5780,7 @@
     "tiempo_retorno": "45 min",
     "id": "23400",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23400/Aguila.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Aguila%20San%20Bartolom%C3%A9%20de%20Tirajana%20(Las%20Palmas)%20Las%20Palmas&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 27.803097,
       "lng": -15.548979,
@@ -5215,7 +5807,11 @@
         "lat": 27.787222,
         "lng": -15.54912
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 30,
+    "rating_average": 3.98
   },
   {
     "nombre": "Barranco de Correa Silos, Los, Los Silos, Garachico (Santa Cruz de Tenerife)",
@@ -5231,7 +5827,7 @@
     "tiempo_retorno": "45 min",
     "id": "23418",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23418/Correa.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Correa%20Silos%2C%20Los%2C%20Los%20Silos%2C%20Garachico%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.363056,
       "lng": -16.795795,
@@ -5258,7 +5854,11 @@
         "lat": 28.368864,
         "lng": -16.796911
       }
-    ]
+    ],
+    "dificultad_vertical": "V5",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 69,
+    "rating_average": 4.4
   },
   {
     "nombre": "Barranco del Ibon (inferior)Plan (Huesca)",
@@ -5274,7 +5874,7 @@
     "tiempo_retorno": "45 min",
     "id": "23440",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23440/Ibon-inferior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Ibon%20(inferior)Plan%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.5672,
       "lng": 0.314727,
@@ -5296,7 +5896,11 @@
         "lat": 42.574444,
         "lng": 0.320222
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 154,
+    "rating_average": 3.01
   },
   {
     "nombre": "Barranco de Gordo Castejón de Sos (Huesca)",
@@ -5312,7 +5916,7 @@
     "tiempo_retorno": "45 min",
     "id": "23502",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23502/Gordo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Gordo%20Castej%C3%B3n%20de%20Sos%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.54137,
       "lng": 0.516583,
@@ -5334,7 +5938,11 @@
         "lat": 42.536964,
         "lng": 0.506158
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 48,
+    "rating_average": 2.78
   },
   {
     "nombre": "Barranco del Nacimiento Millares (Valencia)",
@@ -5350,7 +5958,7 @@
     "tiempo_retorno": "45 min",
     "id": "23513",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23513/Nacimiento.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Nacimiento%20Millares%20(Valencia)%20Valencia&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.242222,
       "lng": -0.768289,
@@ -5367,7 +5975,11 @@
         "lat": 39.240032,
         "lng": -0.767258
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 80,
+    "rating_average": 3.12
   },
   {
     "nombre": "Arroyo del Grajo Loja (Provincia de Granada)",
@@ -5383,7 +5995,7 @@
     "tiempo_retorno": "45 min",
     "id": "23515",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23515/Grajo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Arroyo%20del%20Grajo%20Loja%20(Provincia%20de%20Granada)%20Provincia%20de%20Granada&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 37.199165,
       "lng": -4.158689,
@@ -5410,7 +6022,11 @@
         "lat": 37.181461,
         "lng": -4.151903
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 82,
+    "rating_average": 3.15
   },
   {
     "nombre": "Barranco de Genilla Priego de Córdoba (Córdoba)",
@@ -5426,7 +6042,7 @@
     "tiempo_retorno": "45 min",
     "id": "23516",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23516/Genilla.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Genilla%20Priego%20de%20C%C3%B3rdoba%20(C%C3%B3rdoba)%20C%C3%B3rdoba&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 37.438961,
       "lng": -4.237322,
@@ -5448,7 +6064,11 @@
         "lat": 37.438782,
         "lng": -4.236669
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 83,
+    "rating_average": 3.16
   },
   {
     "nombre": "Barrancos de Jordan y Arrako Uztárroz/Uztarroze, Isaba (Provincia de Navarra)",
@@ -5464,7 +6084,11 @@
     "tiempo_retorno": "45 min",
     "id": "23571",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23571/Jordan-y-Arrako.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barrancos%20de%20Jordan%20y%20Arrako%20Uzt%C3%A1rroz%2FUztarroze%2C%20Isaba%20(Provincia%20de%20Navarra)%20Provincia%20de%20Navarra&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 75,
+    "rating_average": 2.79
   },
   {
     "nombre": "Barrancos de Fuenfria y Sierra Aínsa-Sobrarbe (Huesca)",
@@ -5480,7 +6104,7 @@
     "tiempo_retorno": "45 min",
     "id": "23574",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23574/Fuenfria-y-Sierra.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barrancos%20de%20Fuenfria%20y%20Sierra%20A%C3%ADnsa-Sobrarbe%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.257366,
       "lng": 0.134536,
@@ -5502,7 +6126,11 @@
         "lat": 42.282364,
         "lng": 0.143624
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 78,
+    "rating_average": 2.82
   },
   {
     "nombre": "Salto del Nervion(Álava)",
@@ -5518,7 +6146,7 @@
     "tiempo_retorno": "45 min",
     "id": "23604",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23604/Nervion.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Salto%20del%20Nervion(%C3%81lava)%20%C3%81lava&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.938835,
       "lng": -2.98096,
@@ -5540,7 +6168,11 @@
         "lat": 42.96788,
         "lng": -2.987327
       }
-    ]
+    ],
+    "dificultad_vertical": "V6",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 66,
+    "rating_average": 3.88
   },
   {
     "nombre": "Barranc de Barraonse La Guingueta d'Àneu (Lérida)",
@@ -5556,7 +6188,7 @@
     "tiempo_retorno": "45 min",
     "id": "23610",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23610/Barraonse.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20Barraonse%20La%20Guingueta%20d'%C3%80neu%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.558338,
       "lng": 1.158419,
@@ -5578,7 +6210,11 @@
         "lat": 42.553753,
         "lng": 1.153097
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 93,
+    "rating_average": 4.17
   },
   {
     "nombre": "Barranco del Cerves (superior)Melón (Orense)",
@@ -5594,7 +6230,7 @@
     "tiempo_retorno": "45 min",
     "id": "23618",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23618/Cerves-superior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Cerves%20(superior)Mel%C3%B3n%20(Orense)%20Orense&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.274429,
       "lng": -8.230958,
@@ -5621,7 +6257,11 @@
         "lat": 42.273304,
         "lng": -8.232417
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 101,
+    "rating_average": 4.26
   },
   {
     "nombre": "Barranco del Forcos Broto (Huesca)",
@@ -5637,7 +6277,7 @@
     "tiempo_retorno": "45 min",
     "id": "23627",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23627/Forcos.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Forcos%20Broto%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.546295,
       "lng": -0.197434,
@@ -5659,7 +6299,11 @@
         "lat": 42.533703,
         "lng": -0.166964
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 131,
+    "rating_average": 4.58
   },
   {
     "nombre": "Torrent de la Baga Vallcebre (Barcelona)",
@@ -5675,7 +6319,7 @@
     "tiempo_retorno": "45 min",
     "id": "23630",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23630/Baga.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20de%20la%20Baga%20Vallcebre%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.200989,
       "lng": 1.804415,
@@ -5697,7 +6341,11 @@
         "lat": 42.200382,
         "lng": 1.803664
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 155,
+    "rating_average": 4.84
   },
   {
     "nombre": "La Foradada Guardiola de Berguedà, Vallcebre (Barcelona)",
@@ -5713,7 +6361,7 @@
     "tiempo_retorno": "45 min",
     "id": "23636",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23636/Foradada.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=La%20Foradada%20Guardiola%20de%20Bergued%C3%A0%2C%20Vallcebre%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.21244,
       "lng": 1.827506,
@@ -5735,7 +6383,11 @@
         "lat": 42.216911,
         "lng": 1.828689
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 161,
+    "rating_average": 2.6
   },
   {
     "nombre": "Barranc de Boixols Abella de la Conca (Lérida)",
@@ -5751,7 +6403,7 @@
     "tiempo_retorno": "45 min",
     "id": "23655",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23655/Boixols.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20Boixols%20Abella%20de%20la%20Conca%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.169064,
       "lng": 1.165004,
@@ -5773,7 +6425,11 @@
         "lat": 42.171001,
         "lng": 1.163253
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 33,
+    "rating_average": 3.25
   },
   {
     "nombre": "Barranco da Cortella Melón (Orense)",
@@ -5789,7 +6445,7 @@
     "tiempo_retorno": "45 min",
     "id": "23692",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23692/Cortella.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20da%20Cortella%20Mel%C3%B3n%20(Orense)%20Orense&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.254993,
       "lng": -8.235095,
@@ -5816,7 +6472,11 @@
         "lat": 42.256863,
         "lng": -8.216584
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 154,
+    "rating_average": 4.55
   },
   {
     "nombre": "Barranco de Cantera Antona Bielsa (Huesca)",
@@ -5832,7 +6492,7 @@
     "tiempo_retorno": "45 min",
     "id": "23719",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23719/Cantera-Antona.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Cantera%20Antona%20Bielsa%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.709171,
       "lng": 0.170651,
@@ -5844,7 +6504,11 @@
         "lat": 42.709171,
         "lng": 0.170651
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 118,
+    "rating_average": 3.05
   },
   {
     "nombre": "Riu Carangas (supérieur)Ponga (Provincia de Asturias)",
@@ -5860,7 +6524,7 @@
     "tiempo_retorno": "45 min",
     "id": "23725",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23725/Carangas-superieur.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Riu%20Carangas%20(sup%C3%A9rieur)Ponga%20(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.2258,
       "lng": -5.198283,
@@ -5882,7 +6546,11 @@
         "lat": 43.223583,
         "lng": -5.201467
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 145,
+    "rating_average": 3.34
   },
   {
     "nombre": "Riu Carangas (inférieur)Ponga (Provincia de Asturias)",
@@ -5898,7 +6566,7 @@
     "tiempo_retorno": "45 min",
     "id": "23726",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23726/Carangas-inferieur.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Riu%20Carangas%20(inf%C3%A9rieur)Ponga%20(Provincia%20de%20Asturias)%20Provincia%20de%20Asturias&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 43.224884,
       "lng": -5.20155,
@@ -5925,7 +6593,11 @@
         "lat": 43.223267,
         "lng": -5.2079
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 146,
+    "rating_average": 3.35
   },
   {
     "nombre": "Barranco de Chillar Nerja (Málaga)",
@@ -5941,7 +6613,7 @@
     "tiempo_retorno": "45 min",
     "id": "23741",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23741/Chillar.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Chillar%20Nerja%20(M%C3%A1laga)%20M%C3%A1laga&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 36.814682,
       "lng": -3.862258,
@@ -5968,7 +6640,11 @@
         "lat": 36.771088,
         "lng": -3.878077
       }
-    ]
+    ],
+    "dificultad_vertical": "V1",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 14,
+    "rating_average": 3.96
   },
   {
     "nombre": "Garganta de Escarra Escarilla (Huesca)",
@@ -5984,7 +6660,7 @@
     "tiempo_retorno": "45 min",
     "id": "23949",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23949/Escarra.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20de%20Escarra%20Escarilla%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.737839,
       "lng": -0.31819,
@@ -5996,7 +6672,11 @@
         "lat": 42.737839,
         "lng": -0.31819
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 54,
+    "rating_average": 3.91
   },
   {
     "nombre": "Barranco de Las Chorreras de Enguídanos Enguídanos (Provincia de Cuenca)",
@@ -6012,7 +6692,7 @@
     "tiempo_retorno": "45 min",
     "id": "23950",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23950/Las-Chorreras-de-Enguidanos.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Las%20Chorreras%20de%20Engu%C3%ADdanos%20Engu%C3%ADdanos%20(Provincia%20de%20Cuenca)%20Provincia%20de%20Cuenca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.712639,
       "lng": -1.617294,
@@ -6034,7 +6714,11 @@
         "lat": 39.70163,
         "lng": -1.621765
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 76,
+    "rating_average": 4.14
   },
   {
     "nombre": "Barranc d'Erta El Pont de Suert (Lérida)",
@@ -6050,7 +6734,11 @@
     "tiempo_retorno": "45 min",
     "id": "23958",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23958/Erta.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20d'Erta%20El%20Pont%20de%20Suert%20(L%C3%A9rida)%20L%C3%A9rida&act=46"
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 84,
+    "rating_average": 4.23
   },
   {
     "nombre": "Barranco del Cuello Nueno (Huesca)",
@@ -6066,7 +6754,7 @@
     "tiempo_retorno": "45 min",
     "id": "23959",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23959/Cuello.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Cuello%20Nueno%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.321995,
       "lng": -0.255032,
@@ -6083,7 +6771,11 @@
         "lat": 42.321995,
         "lng": -0.255032
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 85,
+    "rating_average": 4.24
   },
   {
     "nombre": "Barranco de la Cueva del Oso Aragüés del Puerto (Huesca)",
@@ -6099,7 +6791,7 @@
     "tiempo_retorno": "45 min",
     "id": "23962",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23962/Cueva-del-Oso.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20la%20Cueva%20del%20Oso%20Arag%C3%BC%C3%A9s%20del%20Puerto%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.75676,
       "lng": -0.63516,
@@ -6126,7 +6818,11 @@
         "lat": 42.755703,
         "lng": -0.63267
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 109,
+    "rating_average": 4.49
   },
   {
     "nombre": "Barranco de las Torcas Aras de los Olmos (Valencia)",
@@ -6142,7 +6838,7 @@
     "tiempo_retorno": "45 min",
     "id": "23981",
     "url": "https://www.descente-canyon.com/canyoning/canyon/23981/Torcas.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20las%20Torcas%20Aras%20de%20los%20Olmos%20(Valencia)%20Valencia&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.976807,
       "lng": -1.116593,
@@ -6159,7 +6855,11 @@
         "lat": 39.980572,
         "lng": -1.107356
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 170,
+    "rating_average": 2.85
   },
   {
     "nombre": "Barranco de Guadajana Lentegí (Provincia de Granada)",
@@ -6175,7 +6875,7 @@
     "tiempo_retorno": "45 min",
     "id": "24016",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24016/Guadajana.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Guadajana%20Lenteg%C3%AD%20(Provincia%20de%20Granada)%20Provincia%20de%20Granada&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 36.849518,
       "lng": -3.682013,
@@ -6197,7 +6897,11 @@
         "lat": 36.850964,
         "lng": -3.680602
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 121,
+    "rating_average": 3.65
   },
   {
     "nombre": "Torrent de Fontalba Queralbs (Gerona)",
@@ -6213,7 +6917,7 @@
     "tiempo_retorno": "45 min",
     "id": "24051",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24051/Fontalba.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20de%20Fontalba%20Queralbs%20(Gerona)%20Gerona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.370609,
       "lng": 2.14744,
@@ -6240,7 +6944,11 @@
         "lat": 42.358532,
         "lng": 2.163872
       }
-    ]
+    ],
+    "dificultad_vertical": "V5",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 51,
+    "rating_average": 2.62
   },
   {
     "nombre": "Torrent del Salt del Grill Queralbs (Gerona)",
@@ -6256,7 +6964,7 @@
     "tiempo_retorno": "45 min",
     "id": "24052",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24052/Grill.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20del%20Salt%20del%20Grill%20Queralbs%20(Gerona)%20Gerona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.376282,
       "lng": 2.175546,
@@ -6278,7 +6986,11 @@
         "lat": 42.364048,
         "lng": 2.17534
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 52,
+    "rating_average": 2.63
   },
   {
     "nombre": "Barranco de la Chola Granadilla de Abona, Arico (Santa Cruz de Tenerife)",
@@ -6294,7 +7006,7 @@
     "tiempo_retorno": "45 min",
     "id": "24062",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24062/Chola.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20la%20Chola%20Granadilla%20de%20Abona%2C%20Arico%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.1437,
       "lng": -16.527409,
@@ -6306,7 +7018,11 @@
         "lat": 28.1437,
         "lng": -16.527409
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 83,
+    "rating_average": 2.96
   },
   {
     "nombre": "Barranco del Cuervo Vilaflor (Santa Cruz de Tenerife)",
@@ -6322,7 +7038,7 @@
     "tiempo_retorno": "45 min",
     "id": "24063",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24063/Cuervo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Cuervo%20Vilaflor%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.181961,
       "lng": -16.660273,
@@ -6334,7 +7050,11 @@
         "lat": 28.181961,
         "lng": -16.660273
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 84,
+    "rating_average": 2.97
   },
   {
     "nombre": "Barranco del Hoyo Granadilla de Abona, Arico (Santa Cruz de Tenerife)",
@@ -6350,7 +7070,7 @@
     "tiempo_retorno": "45 min",
     "id": "24066",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24066/Hoyo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Hoyo%20Granadilla%20de%20Abona%2C%20Arico%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.151901,
       "lng": -16.494827,
@@ -6372,7 +7092,11 @@
         "lat": 28.148647,
         "lng": -16.493673
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 87,
+    "rating_average": 3.01
   },
   {
     "nombre": "Barranco de los Cochinos Silos, Los, Los Silos (Santa Cruz de Tenerife)",
@@ -6388,7 +7112,7 @@
     "tiempo_retorno": "45 min",
     "id": "24078",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24078/Cochinos.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20los%20Cochinos%20Silos%2C%20Los%2C%20Los%20Silos%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.340231,
       "lng": -16.81815,
@@ -6420,7 +7144,11 @@
         "lat": 28.342926,
         "lng": -16.811977
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 120,
+    "rating_average": 3.36
   },
   {
     "nombre": "Barranco del Castillo Tacoronte (Santa Cruz de Tenerife)",
@@ -6436,7 +7164,7 @@
     "tiempo_retorno": "45 min",
     "id": "24080",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24080/Castillo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Castillo%20Tacoronte%20(Santa%20Cruz%20de%20Tenerife)%20Santa%20Cruz%20de%20Tenerife&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 28.49472,
       "lng": -16.420219,
@@ -6463,7 +7191,11 @@
         "lat": 28.502724,
         "lng": -16.424015
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 143,
+    "rating_average": 3.61
   },
   {
     "nombre": "Torrent del Greixot Guardiola de Berguedà (Barcelona)",
@@ -6479,7 +7211,7 @@
     "tiempo_retorno": "45 min",
     "id": "24092",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24092/Greixot.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20del%20Greixot%20Guardiola%20de%20Bergued%C3%A0%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.22599,
       "lng": 1.886514,
@@ -6501,7 +7233,11 @@
         "lat": 42.227791,
         "lng": 1.881094
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 176,
+    "rating_average": 3.96
   },
   {
     "nombre": "Riera de Clara (superior)Avià, Berga (Barcelona)",
@@ -6517,7 +7253,7 @@
     "tiempo_retorno": "45 min",
     "id": "24096",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24096/Clara-superior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Riera%20de%20Clara%20(superior)Avi%C3%A0%2C%20Berga%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.080822,
       "lng": 1.781364,
@@ -6544,7 +7280,11 @@
         "lat": 42.06617,
         "lng": 1.795694
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 180,
+    "rating_average": 4
   },
   {
     "nombre": "Salt de la Gorgael Port de la Selva (Gerona)",
@@ -6560,7 +7300,7 @@
     "tiempo_retorno": "45 min",
     "id": "24097",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24097/Gorga.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Salt%20de%20la%20Gorgael%20Port%20de%20la%20Selva%20(Gerona)%20Gerona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.301212,
       "lng": 3.228731,
@@ -6582,7 +7322,11 @@
         "lat": 42.301121,
         "lng": 3.229654
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 181,
+    "rating_average": 4.01
   },
   {
     "nombre": "Barrancos Can Pelegri y de Vilacireres Berga (Barcelona)",
@@ -6598,7 +7342,7 @@
     "tiempo_retorno": "45 min",
     "id": "24098",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24098/Can-Pelegri-y-de-Vilacireres.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barrancos%20Can%20Pelegri%20y%20de%20Vilacireres%20Berga%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.176678,
       "lng": 1.669756,
@@ -6615,7 +7359,11 @@
         "lat": 42.152714,
         "lng": 1.663492
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 182,
+    "rating_average": 4.02
   },
   {
     "nombre": "Barranco Bergazo Broto (Huesca)",
@@ -6631,7 +7379,7 @@
     "tiempo_retorno": "45 min",
     "id": "24149",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24149/Bergazo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Bergazo%20Broto%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.549236,
       "lng": -0.180201,
@@ -6653,7 +7401,11 @@
         "lat": 42.533752,
         "lng": -0.166626
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 44,
+    "rating_average": 3.46
   },
   {
     "nombre": "Torrent de Bellestil Camprodon (Gerona)",
@@ -6669,7 +7421,7 @@
     "tiempo_retorno": "45 min",
     "id": "24211",
     "url": "https://www.descente-canyon.com/canyoning/canyon/24211/Bellestil.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20de%20Bellestil%20Camprodon%20(Gerona)%20Gerona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.331764,
       "lng": 2.513473,
@@ -6686,7 +7438,11 @@
         "lat": 42.323593,
         "lng": 2.501278
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 148,
+    "rating_average": 3.46
   },
   {
     "nombre": "Barranco de Guadalatin inférieur(Provincia de Jaén)",
@@ -6702,7 +7458,7 @@
     "tiempo_retorno": "45 min",
     "id": "2518",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2518/Guadalatin-inferieur.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Guadalatin%20inf%C3%A9rieur(Provincia%20de%20Ja%C3%A9n)%20Provincia%20de%20Ja%C3%A9n&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 37.760979,
       "lng": -2.903674,
@@ -6729,7 +7485,11 @@
         "lat": 37.758228,
         "lng": -2.914681
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 19,
+    "rating_average": 3.43
   },
   {
     "nombre": "Barranco del Buitre Castril (Provincia de Granada)",
@@ -6745,7 +7505,7 @@
     "tiempo_retorno": "45 min",
     "id": "2539",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2539/Buitre.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Buitre%20Castril%20(Provincia%20de%20Granada)%20Provincia%20de%20Granada&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 37.848274,
       "lng": -2.78247,
@@ -6762,7 +7522,11 @@
         "lat": 37.848274,
         "lng": -2.78247
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 82,
+    "rating_average": 4.11
   },
   {
     "nombre": "Barranco de Bermejo Pórtugos (Provincia de Granada)",
@@ -6778,7 +7542,7 @@
     "tiempo_retorno": "45 min",
     "id": "2543",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2543/Bermejo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Bermejo%20P%C3%B3rtugos%20(Provincia%20de%20Granada)%20Provincia%20de%20Granada&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 36.956116,
       "lng": -3.325832,
@@ -6800,7 +7564,11 @@
         "lat": 36.95586,
         "lng": -3.32521
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 107,
+    "rating_average": 4.38
   },
   {
     "nombre": "Barranco de Basender Bárcabo (Huesca)",
@@ -6816,7 +7584,7 @@
     "tiempo_retorno": "45 min",
     "id": "2551",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2551/Basender.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Basender%20B%C3%A1rcabo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.224514,
       "lng": 0.033517,
@@ -6838,7 +7606,11 @@
         "lat": 42.2197,
         "lng": 0.045362
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 136,
+    "rating_average": 4.69
   },
   {
     "nombre": "Barranc de Canaletes La Horta de San Juan (Tarragona)",
@@ -6854,7 +7626,7 @@
     "tiempo_retorno": "45 min",
     "id": "2559",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2559/Canaletes.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20Canaletes%20La%20Horta%20de%20San%20Juan%20(Tarragona)%20Tarragona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.917095,
       "lng": 0.333163,
@@ -6881,7 +7653,11 @@
         "lat": 40.916504,
         "lng": 0.333533
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 144,
+    "rating_average": 4.77
   },
   {
     "nombre": "Barranco de la Corva Ribas de Freser (Gerona)",
@@ -6897,7 +7673,7 @@
     "tiempo_retorno": "45 min",
     "id": "2575",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2575/Corva.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20la%20Corva%20Ribas%20de%20Freser%20(Gerona)%20Gerona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.269741,
       "lng": 2.187502,
@@ -6919,7 +7695,11 @@
         "lat": 42.270157,
         "lng": 2.186464
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 13,
+    "rating_average": 3.09
   },
   {
     "nombre": "Barranc dels Cubars (superior)La Horta de San Juan (Tarragona)",
@@ -6935,7 +7715,7 @@
     "tiempo_retorno": "45 min",
     "id": "2577",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2577/Cubars-superior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20dels%20Cubars%20(superior)La%20Horta%20de%20San%20Juan%20(Tarragona)%20Tarragona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 40.922333,
       "lng": 0.354395,
@@ -6967,7 +7747,11 @@
         "lat": 40.922874,
         "lng": 0.324547
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 15,
+    "rating_average": 3.11
   },
   {
     "nombre": "Barranco del Forat Negre Vallcebre (Barcelona)",
@@ -6983,7 +7767,7 @@
     "tiempo_retorno": "45 min",
     "id": "2620",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2620/Forat-Negre.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Forat%20Negre%20Vallcebre%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.200474,
       "lng": 1.805539,
@@ -7005,7 +7789,11 @@
         "lat": 42.199909,
         "lng": 1.803389
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 58,
+    "rating_average": 4.76
   },
   {
     "nombre": "Estrets de la riera de Carmela Torre de Claramunt, Carme (Barcelona)",
@@ -7021,7 +7809,7 @@
     "tiempo_retorno": "45 min",
     "id": "2625",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2625/Carme.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Estrets%20de%20la%20riera%20de%20Carmela%20Torre%20de%20Claramunt%2C%20Carme%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 41.517384,
       "lng": 1.554614,
@@ -7043,7 +7831,11 @@
         "lat": 41.521606,
         "lng": 1.572365
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 63,
+    "rating_average": 4.81
   },
   {
     "nombre": "Barranc de l'Aubaga Negra Coll de Nargó (Lérida)",
@@ -7059,7 +7851,7 @@
     "tiempo_retorno": "45 min",
     "id": "2634",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2634/Aubaga-Negra.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20l'Aubaga%20Negra%20Coll%20de%20Narg%C3%B3%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.197296,
       "lng": 1.177883,
@@ -7081,7 +7873,11 @@
         "lat": 42.196739,
         "lng": 1.176551
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 93,
+    "rating_average": 2.84
   },
   {
     "nombre": "Barranc de Fontanella Fígols (Barcelona)",
@@ -7097,7 +7893,7 @@
     "tiempo_retorno": "45 min",
     "id": "2721",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2721/Fontanella.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranc%20de%20Fontanella%20F%C3%ADgols%20(Barcelona)%20Barcelona&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.253185,
       "lng": 1.33366,
@@ -7119,7 +7915,11 @@
         "lat": 42.248203,
         "lng": 1.347485
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 75,
+    "rating_average": 3.55
   },
   {
     "nombre": "Barranco de Fenollet I (Este)Organyà (Lérida)",
@@ -7135,7 +7935,7 @@
     "tiempo_retorno": "45 min",
     "id": "2722",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2722/Fenollet-I-Este.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Fenollet%20I%20(Este)Organy%C3%A0%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.207821,
       "lng": 1.280015,
@@ -7162,7 +7962,11 @@
         "lat": 42.205078,
         "lng": 1.280744
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 76,
+    "rating_average": 3.56
   },
   {
     "nombre": "Gorgas de Gavarra Abella de la Conca (Lérida)",
@@ -7178,7 +7982,7 @@
     "tiempo_retorno": "45 min",
     "id": "2752",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2752/Gavarra.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Gorgas%20de%20Gavarra%20Abella%20de%20la%20Conca%20(L%C3%A9rida)%20L%C3%A9rida&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.098045,
       "lng": 1.197252,
@@ -7205,7 +8009,11 @@
         "lat": 42.082378,
         "lng": 1.166611
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 169,
+    "rating_average": 4.56
   },
   {
     "nombre": "Barranco de las Devotas Tella-Sin (Huesca)",
@@ -7221,7 +8029,7 @@
     "tiempo_retorno": "45 min",
     "id": "2766",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2766/Devotas.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20las%20Devotas%20Tella-Sin%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.560341,
       "lng": 0.197957,
@@ -7243,7 +8051,11 @@
         "lat": 42.555923,
         "lng": 0.204631
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 15,
+    "rating_average": 2.63
   },
   {
     "nombre": "Estrechos del Gorgonchon(Huesca)",
@@ -7259,7 +8071,7 @@
     "tiempo_retorno": "45 min",
     "id": "2777",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2777/Gorgonchon.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Estrechos%20del%20Gorgonchon(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.204967,
       "lng": -0.14308,
@@ -7281,7 +8093,11 @@
         "lat": 42.211006,
         "lng": -0.139861
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 47,
+    "rating_average": 2.97
   },
   {
     "nombre": "Gorgas Negras Bierge, Sabiñánigo (Huesca)",
@@ -7297,7 +8113,7 @@
     "tiempo_retorno": "45 min",
     "id": "2784",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2784/Gorgas-Negras.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Gorgas%20Negras%20Bierge%2C%20Sabi%C3%B1%C3%A1nigo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.315357,
       "lng": -0.130152,
@@ -7319,7 +8135,11 @@
         "lat": 42.282131,
         "lng": -0.077323
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 75,
+    "rating_average": 3.27
   },
   {
     "nombre": "Cañon del Barrasil Bierge (Huesca)",
@@ -7335,7 +8155,7 @@
     "tiempo_retorno": "45 min",
     "id": "2785",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2785/Barrasil.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Ca%C3%B1on%20del%20Barrasil%20Bierge%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.285244,
       "lng": -0.109416,
@@ -7362,7 +8182,11 @@
         "lat": 42.270893,
         "lng": -0.080144
       }
-    ]
+    ],
+    "dificultad_vertical": "V1",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 76,
+    "rating_average": 3.28
   },
   {
     "nombre": "Oscuros del Balcez [Oscuros del]Bierge (Huesca)",
@@ -7378,7 +8202,7 @@
     "tiempo_retorno": "45 min",
     "id": "2790",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2790/Balcez-Oscuros-del.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Oscuros%20del%20Balcez%20%5BOscuros%20del%5DBierge%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.246597,
       "lng": -0.046864,
@@ -7400,7 +8224,11 @@
         "lat": 42.240021,
         "lng": -0.063279
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A5",
+    "rating_votes": 102,
+    "rating_average": 3.56
   },
   {
     "nombre": "Cañón del Formiga Bierge (Huesca)",
@@ -7416,7 +8244,7 @@
     "tiempo_retorno": "45 min",
     "id": "2798",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2798/Formiga.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Ca%C3%B1%C3%B3n%20del%20Formiga%20Bierge%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.235287,
       "lng": -0.202475,
@@ -7438,7 +8266,11 @@
         "lat": 42.223194,
         "lng": -0.180008
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 110,
+    "rating_average": 3.65
   },
   {
     "nombre": "Barranco Chardal Tella-Sin (Huesca)",
@@ -7454,7 +8286,7 @@
     "tiempo_retorno": "45 min",
     "id": "2801",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2801/Chardal.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Chardal%20Tella-Sin%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.589394,
       "lng": 0.281911,
@@ -7486,7 +8318,11 @@
         "lat": 42.582222,
         "lng": 0.280044
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 29,
+    "rating_average": 3.97
   },
   {
     "nombre": "Estrechos del Balcez [Estrechos del]Bierge (Huesca)",
@@ -7502,7 +8338,7 @@
     "tiempo_retorno": "45 min",
     "id": "2807",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2807/Balcez-Estrechos-del.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Estrechos%20del%20Balcez%20%5BEstrechos%20del%5DBierge%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.242054,
       "lng": -0.047336,
@@ -7524,7 +8360,11 @@
         "lat": 42.240021,
         "lng": -0.063322
       }
-    ]
+    ],
+    "dificultad_vertical": "V1",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 35,
+    "rating_average": 4.03
   },
   {
     "nombre": "Barranco Cautiecho(Huesca)",
@@ -7540,7 +8380,7 @@
     "tiempo_retorno": "45 min",
     "id": "2808",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2808/Cautiecho.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Cautiecho(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.21822,
       "lng": -0.033517,
@@ -7557,7 +8397,11 @@
         "lat": 42.217983,
         "lng": -0.046628
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 36,
+    "rating_average": 4.04
   },
   {
     "nombre": "Barranco Fondo Bierge (Huesca)",
@@ -7573,7 +8417,7 @@
     "tiempo_retorno": "45 min",
     "id": "2809",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2809/Fondo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Fondo%20Bierge%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.233665,
       "lng": -0.0633,
@@ -7595,7 +8439,11 @@
         "lat": 42.234539,
         "lng": -0.06345
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 37,
+    "rating_average": 4.05
   },
   {
     "nombre": "Barranco del Formiga (superior)(Huesca)",
@@ -7611,7 +8459,7 @@
     "tiempo_retorno": "45 min",
     "id": "2814",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2814/Formiga-superior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Formiga%20(superior)(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.237858,
       "lng": -0.211401,
@@ -7633,7 +8481,11 @@
         "lat": 42.223225,
         "lng": -0.180008
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 63,
+    "rating_average": 4.33
   },
   {
     "nombre": "Barranco del Huevo(Huesca)",
@@ -7649,7 +8501,7 @@
     "tiempo_retorno": "45 min",
     "id": "2815",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2815/Huevo.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Huevo(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.250725,
       "lng": -0.271525,
@@ -7671,7 +8523,11 @@
         "lat": 42.249043,
         "lng": -0.251055
       }
-    ]
+    ],
+    "dificultad_vertical": "V2",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 64,
+    "rating_average": 4.34
   },
   {
     "nombre": "Barranco de Cueva Cabrito Bierge (Huesca)",
@@ -7687,7 +8543,7 @@
     "tiempo_retorno": "45 min",
     "id": "2820",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2820/Cueva-Cabrito.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Cueva%20Cabrito%20Bierge%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.221375,
       "lng": -0.06166,
@@ -7714,7 +8570,11 @@
         "lat": 42.215408,
         "lng": -0.046928
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 90,
+    "rating_average": 4.62
   },
   {
     "nombre": "Barranco de l'Alborzeral Bierge (Huesca)",
@@ -7730,7 +8590,7 @@
     "tiempo_retorno": "45 min",
     "id": "2821",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2821/Alborzeral.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20l'Alborzeral%20Bierge%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.214615,
       "lng": -0.058579,
@@ -7752,7 +8612,11 @@
         "lat": 42.212929,
         "lng": -0.061283
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 91,
+    "rating_average": 4.63
   },
   {
     "nombre": "Barranco Fontaneta Bierge (Huesca)",
@@ -7768,7 +8632,7 @@
     "tiempo_retorno": "45 min",
     "id": "2822",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2822/Fontaneta.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20Fontaneta%20Bierge%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.238876,
       "lng": -0.061798,
@@ -7790,7 +8654,11 @@
         "lat": 42.240036,
         "lng": -0.063279
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 92,
+    "rating_average": 4.64
   },
   {
     "nombre": "Barranco del Fornocal Bárcabo, Colungo (Huesca)",
@@ -7806,7 +8674,7 @@
     "tiempo_retorno": "45 min",
     "id": "2825",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2825/Fornocal.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Fornocal%20B%C3%A1rcabo%2C%20Colungo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.209908,
       "lng": 0.072463,
@@ -7833,7 +8701,11 @@
         "lat": 42.190327,
         "lng": 0.060468
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 95,
+    "rating_average": 4.68
   },
   {
     "nombre": "Garganta de las Gloces Fanlo (Huesca)",
@@ -7849,7 +8721,7 @@
     "tiempo_retorno": "45 min",
     "id": "2826",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2826/Gloces.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20de%20las%20Gloces%20Fanlo%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.597862,
       "lng": -0.027982,
@@ -7871,7 +8743,11 @@
         "lat": 42.590775,
         "lng": -0.02311
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 96,
+    "rating_average": 4.69
   },
   {
     "nombre": "Torrent del Gorg Blau i Sa Fosca Escorca (Provincia de las Islas Baleares)",
@@ -7887,7 +8763,7 @@
     "tiempo_retorno": "45 min",
     "id": "2829",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2829/Gorg-Blau-i-Sa-Fosca.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20del%20Gorg%20Blau%20i%20Sa%20Fosca%20Escorca%20(Provincia%20de%20las%20Islas%20Baleares)%20Provincia%20de%20las%20Islas%20Baleares&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.817768,
       "lng": 2.827354,
@@ -7909,7 +8785,11 @@
         "lat": 39.81604,
         "lng": 2.82427
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 99,
+    "rating_average": 4.72
   },
   {
     "nombre": "Torrent de s'Esmolar Escorca (Provincia de las Islas Baleares)",
@@ -7925,7 +8805,7 @@
     "tiempo_retorno": "45 min",
     "id": "2841",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2841/Esmolar.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20de%20s'Esmolar%20Escorca%20(Provincia%20de%20las%20Islas%20Baleares)%20Provincia%20de%20las%20Islas%20Baleares&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.827259,
       "lng": 2.84018,
@@ -7952,7 +8832,11 @@
         "lat": 39.835606,
         "lng": 2.839537
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 153,
+    "rating_average": 3
   },
   {
     "nombre": "Torrent de Coanegra Bunyola (Provincia de las Islas Baleares)",
@@ -7968,7 +8852,7 @@
     "tiempo_retorno": "45 min",
     "id": "2846",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2846/Coanegra.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20de%20Coanegra%20Bunyola%20(Provincia%20de%20las%20Islas%20Baleares)%20Provincia%20de%20las%20Islas%20Baleares&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.724583,
       "lng": 2.746925,
@@ -7990,7 +8874,11 @@
         "lat": 39.733017,
         "lng": 2.742848
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 158,
+    "rating_average": 3.05
   },
   {
     "nombre": "Torrent d'Almedra Bunyola (Provincia de las Islas Baleares)",
@@ -8006,7 +8894,7 @@
     "tiempo_retorno": "45 min",
     "id": "2848",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2848/Almedra.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20d'Almedra%20Bunyola%20(Provincia%20de%20las%20Islas%20Baleares)%20Provincia%20de%20las%20Islas%20Baleares&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.77787,
       "lng": 2.792373,
@@ -8028,7 +8916,11 @@
         "lat": 39.787136,
         "lng": 2.799132
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 160,
+    "rating_average": 3.07
   },
   {
     "nombre": "Torrent de Biniaraix Sóller (Provincia de las Islas Baleares)",
@@ -8044,7 +8936,7 @@
     "tiempo_retorno": "45 min",
     "id": "2849",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2849/Biniaraix.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20de%20Biniaraix%20S%C3%B3ller%20(Provincia%20de%20las%20Islas%20Baleares)%20Provincia%20de%20las%20Islas%20Baleares&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.760975,
       "lng": 2.755755,
@@ -8066,7 +8958,11 @@
         "lat": 39.772053,
         "lng": 2.735848
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 161,
+    "rating_average": 3.08
   },
   {
     "nombre": "Torrent des Gorg des Diners Escorca (Provincia de las Islas Baleares)",
@@ -8082,7 +8978,7 @@
     "tiempo_retorno": "45 min",
     "id": "2850",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2850/Diners.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20des%20Gorg%20des%20Diners%20Escorca%20(Provincia%20de%20las%20Islas%20Baleares)%20Provincia%20de%20las%20Islas%20Baleares&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.826202,
       "lng": 2.791643,
@@ -8109,7 +9005,11 @@
         "lat": 39.837978,
         "lng": 2.779144
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 183,
+    "rating_average": 3.32
   },
   {
     "nombre": "Torrent de Comafreda Inca (Provincia de las Islas Baleares)",
@@ -8125,7 +9025,7 @@
     "tiempo_retorno": "45 min",
     "id": "2851",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2851/Comafreda.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Torrent%20de%20Comafreda%20Inca%20(Provincia%20de%20las%20Islas%20Baleares)%20Provincia%20de%20las%20Islas%20Baleares&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 39.811523,
       "lng": 2.89066,
@@ -8142,7 +9042,11 @@
         "lat": 39.797581,
         "lng": 2.909135
       }
-    ]
+    ],
+    "dificultad_vertical": null,
+    "dificultad_acuatica": null,
+    "rating_votes": 184,
+    "rating_average": 3.33
   },
   {
     "nombre": "Barranco de Chimiachas Alquézar (Huesca)",
@@ -8158,7 +9062,7 @@
     "tiempo_retorno": "45 min",
     "id": "2853",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2853/Chimiachas.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Chimiachas%20Alqu%C3%A9zar%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.211163,
       "lng": 0.006909,
@@ -8175,7 +9079,11 @@
         "lat": 42.204868,
         "lng": 0.025105
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A1",
+    "rating_votes": 186,
+    "rating_average": 3.35
   },
   {
     "nombre": "Garganta de Barrosa Parzan (Huesca)",
@@ -8191,7 +9099,7 @@
     "tiempo_retorno": "45 min",
     "id": "2866",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2866/Barrosa.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Garganta%20de%20Barrosa%20Parzan%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.703819,
       "lng": 0.193763,
@@ -8223,7 +9131,11 @@
         "lat": 42.70311,
         "lng": 0.199338
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 31,
+    "rating_average": 3.71
   },
   {
     "nombre": "Balcez (superior)(Huesca)",
@@ -8239,7 +9151,7 @@
     "tiempo_retorno": "45 min",
     "id": "2871",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2871/Balcez-superior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Balcez%20(superior)(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.346745,
       "lng": -0.020685,
@@ -8266,7 +9178,11 @@
         "lat": 42.240036,
         "lng": -0.063279
       }
-    ]
+    ],
+    "dificultad_vertical": "V3",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 57,
+    "rating_average": 3.99
   },
   {
     "nombre": "Barranco de Artazul Goñi (Provincia de Navarra)",
@@ -8282,7 +9198,7 @@
     "tiempo_retorno": "45 min",
     "id": "2955",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2955/Artazul.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Artazul%20Go%C3%B1i%20(Provincia%20de%20Navarra)%20Provincia%20de%20Navarra&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.837364,
       "lng": -1.878705,
@@ -8309,7 +9225,11 @@
         "lat": 42.837711,
         "lng": -1.880207
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 15,
+    "rating_average": 4.45
   },
   {
     "nombre": "Barranco de Lizebar Goñi (Provincia de Navarra)",
@@ -8325,7 +9245,7 @@
     "tiempo_retorno": "45 min",
     "id": "2956",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2956/Lizebar.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Lizebar%20Go%C3%B1i%20(Provincia%20de%20Navarra)%20Provincia%20de%20Navarra&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.838593,
       "lng": -1.871967,
@@ -8347,7 +9267,11 @@
         "lat": 42.832329,
         "lng": -1.874671
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 16,
+    "rating_average": 4.46
   },
   {
     "nombre": "Barranco de Consusa (supérieur)Tella-Sin (Huesca)",
@@ -8363,7 +9287,7 @@
     "tiempo_retorno": "45 min",
     "id": "2962",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2962/Consusa-superieur.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Consusa%20(sup%C3%A9rieur)Tella-Sin%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.61113,
       "lng": 0.151062,
@@ -8385,7 +9309,11 @@
         "lat": 42.597752,
         "lng": 0.142114
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 43,
+    "rating_average": 4.75
   },
   {
     "nombre": "Barranco de Consusa (inferior)Tella-Sin (Huesca)",
@@ -8401,7 +9329,7 @@
     "tiempo_retorno": "45 min",
     "id": "2963",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2963/Consusa-inferior.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20Consusa%20(inferior)Tella-Sin%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.597843,
       "lng": 0.140119,
@@ -8428,7 +9356,11 @@
         "lat": 42.592838,
         "lng": 0.15398
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A2",
+    "rating_votes": 44,
+    "rating_average": 4.76
   },
   {
     "nombre": "Barranco de la Foz de la Canal Bielsa (Huesca)",
@@ -8444,7 +9376,7 @@
     "tiempo_retorno": "45 min",
     "id": "2965",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2965/Foz-de-la-Canal.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20de%20la%20Foz%20de%20la%20Canal%20Bielsa%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.604778,
       "lng": 0.250025,
@@ -8466,7 +9398,11 @@
         "lat": 42.598129,
         "lng": 0.238749
       }
-    ]
+    ],
+    "dificultad_vertical": "V5",
+    "dificultad_acuatica": "A3",
+    "rating_votes": 46,
+    "rating_average": 4.78
   },
   {
     "nombre": "Barranco del Gorgol Piedrafita de Jaca (Huesca)",
@@ -8482,7 +9418,7 @@
     "tiempo_retorno": "45 min",
     "id": "2966",
     "url": "https://www.descente-canyon.com/canyoning/canyon/2966/Gorgol.html",
-    "wikiloc_search_url": "https://www.wikiloc.com/wikiloc/find.do?q=Barranco%20del%20Gorgol%20Piedrafita%20de%20Jaca%20(Huesca)%20Huesca&act=46",
+    "wikiloc_search_url": "https://es.wikiloc.com/wikiloc/map.do?sw=35.95%2C-9.39&ne=43.75%2C3.04&act=46&page=1",
     "coordinates": {
       "lat": 42.70874,
       "lng": -0.330319,
@@ -8504,6 +9440,10 @@
         "lat": 42.706928,
         "lng": -0.329225
       }
-    ]
+    ],
+    "dificultad_vertical": "V4",
+    "dificultad_acuatica": "A4",
+    "rating_votes": 47,
+    "rating_average": 4.79
   }
 ]
