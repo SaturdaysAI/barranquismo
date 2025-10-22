@@ -146,7 +146,12 @@ function BarrancoDetail() {
         </button>
         {isMapOpen && (
           canyon.coordinates ? (
-            <MapPreview lat={canyon.coordinates.lat} lng={canyon.coordinates.lng} zoom={canyon.coordinates.zoom} />
+            <MapPreview
+              lat={canyon.coordinates.lat}
+              lng={canyon.coordinates.lng}
+              zoom={canyon.coordinates.zoom}
+              markers={canyon.descente_markers ?? []}
+            />
           ) : canyon.wikiloc_search_url ? (
             <p className="detail-placeholder">
               Aún no hay coordenadas registradas. Puedes consultar las rutas en{' '}
