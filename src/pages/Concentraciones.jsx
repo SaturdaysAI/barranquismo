@@ -1,4 +1,15 @@
+import { Link } from 'react-router-dom';
+
 const UPCOMING_MEETUPS = [
+  {
+    id: 'pirineos-canyon-2024',
+    title: 'Pirineos Canyon 2024',
+    location: 'Boltaña, Sobrarbe (Huesca)',
+    date: '7-9 junio 2024',
+    description:
+      'Encuentro de barranquismo con talleres técnicos, charlas, exposición de material, gymkana en la Gorga y cena con sorteo en el Palacio de Congresos.',
+    link: '/concentraciones/pirineos-canyon-2024'
+  },
   {
     id: 'sobrarbe-2026',
     title: 'Encuentro Sobrarbe 2026',
@@ -32,6 +43,11 @@ function Concentraciones() {
             <p className="card-meta">{meetup.location}</p>
             <p className="card-date">{meetup.date}</p>
             <p className="card-description">{meetup.description}</p>
+            {meetup.link ? (
+              <Link className="canyon-link" to={meetup.link}>
+                Ver detalles
+              </Link>
+            ) : null}
           </li>
         ))}
       </ul>

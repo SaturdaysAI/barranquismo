@@ -1,24 +1,28 @@
+import { Link } from 'react-router-dom';
+
 const FEATURED_ARTICLES = [
   {
     id: 'planificacion-segura',
-    title: 'Planificación segura de un descenso complejo',
-    summary: 'Checklist mental para evaluar caudal, escapes y material antes de entrar al cañón.',
-    url: 'https://example.com/blog/planificacion-segura'
+    title: 'Planificación segura de un descenso de barranco',
+    summary: 'Guía práctica para estudiar la meteo, coordinar el equipo y cuidar el entorno antes de lanzarte al agua.',
+    url: '/blog/planificacion-segura',
+    type: 'internal'
   },
   {
     id: 'material-2026',
     title: 'Material imprescindible para la temporada 2026',
     summary: 'Comparativa de neoprenos, escarpines y sacas estancas con recomendaciones por nivel.',
-    url: 'https://example.com/blog/material-2026'
+    url: 'https://example.com/blog/material-2026',
+    type: 'external'
   },
   {
     id: 'rescate-rapido',
     title: 'Maniobras de rescate rápido en pozas activas',
     summary: 'Tres maniobras básicas para evacuar a un compañero atrapado en rebufos.',
-    url: 'https://example.com/blog/rescate-rapido'
+    url: 'https://example.com/blog/rescate-rapido',
+    type: 'external'
   }
 ];
-
 // Blog page curates external reading to keep users engaged while offline content loads.
 function Blog() {
   return (
@@ -35,14 +39,20 @@ function Blog() {
           <li key={article.id} className="info-card">
             <h2 className="card-title">{article.title}</h2>
             <p className="card-description">{article.summary}</p>
-            <a
-              className="canyon-link external"
-              href={article.url}
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Leer artículo
-            </a>
+            {article.type === 'internal' ? (
+              <Link className="canyon-link" to={article.url}>
+                Leer artículo
+              </Link>
+            ) : (
+              <a
+                className="canyon-link external"
+                href={article.url}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Leer artículo
+              </a>
+            )}
           </li>
         ))}
       </ul>

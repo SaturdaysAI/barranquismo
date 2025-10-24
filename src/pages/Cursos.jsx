@@ -2,12 +2,14 @@ import { Link } from 'react-router-dom';
 
 const FEATURED_COURSES = [
   {
-    id: 'curso-tecnico-avanzado',
-    title: 'Técnico Avanzado de Barrancos',
-    provider: 'Escuela Alpina Pirenaica',
-    level: 'Nivel avanzado',
-    date: 'Abril 2026',
-    url: 'https://example.com/cursos/tecnico-avanzado'
+    id: 'td2-barrancos-sputnik',
+    title: 'Grado Medio TD2 Barrancos',
+    provider: 'Sputnik Climbing',
+    level: 'Título oficial TD2',
+    date: 'Convocatorias anuales',
+    summary:
+      'Programa oficial para técnicos deportivos de barrancos que cubre planificación, seguridad, autorrescate y dirección de grupos en todo tipo de descensos.',
+    url: 'https://sputnikclimbing.com/formacion/tecnicos-deportivos-montana/td2-grado-medio-tecnico-deportivo-barrancos/'
   },
   {
     id: 'curso-autoproteccion',
@@ -38,6 +40,7 @@ function Cursos() {
               {course.provider} · {course.level}
             </p>
             <p className="card-date">Próxima edición: {course.date}</p>
+            {course.summary && <p className="card-description">{course.summary}</p>}
             <a
               className="canyon-link external"
               href={course.url}

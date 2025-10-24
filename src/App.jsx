@@ -6,6 +6,8 @@ import Checklist from './pages/Checklist.jsx';
 import Cursos from './pages/Cursos.jsx';
 import Concentraciones from './pages/Concentraciones.jsx';
 import Blog from './pages/Blog.jsx';
+import BlogArticlePlanificacion from './pages/BlogArticlePlanificacion.jsx';
+import ConcentracionPirineos from './pages/ConcentracionPirineos.jsx';
 import useLocalStorage from './hooks/useLocalStorage.js';
 
 // Application shell with simple navigation bar and routed pages.
@@ -114,7 +116,9 @@ function App() {
           <Route path="/barranco/:id" element={<BarrancoDetail />} />
           <Route path="/cursos" element={<Cursos />} />
           <Route path="/concentraciones" element={<Concentraciones />} />
+          <Route path="/concentraciones/pirineos-canyon-2024" element={<ConcentracionPirineos />} />
           <Route path="/blog" element={<Blog />} />
+          <Route path="/blog/planificacion-segura" element={<BlogArticlePlanificacion />} />
           <Route path="/checklist" element={<Checklist />} />
         </Routes>
       </main>
